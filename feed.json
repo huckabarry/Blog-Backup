@@ -1,16 +1,160 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Brushstrokes",
+	"title": "An Elephant In the Delta Waves",
 	"icon": "https://micro.blog/BRYNBRRY/avatar.jpg",
 	"home_page_url": "https://indw.blog/",
 	"feed_url": "https://indw.blog/feed.json",
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/26/yesterday-i-got.html",
+				
+				"content_html": "<p>Yesterday I got the news that after a nearly 5-month background check, I got my security clearance and can finally start the new job I first applied for way back in February and accepted in May. Now I can finally let the stress and anxiety of the unknown go and focus on more important things.</p>\n",
+				"content_text": "Yesterday I got the news that after a nearly 5-month background check, I got my security clearance and can finally start the new job I first applied for way back in February and accepted in May. Now I can finally let the stress and anxiety of the unknown go and focus on more important things. \n",
+				"date_published": "2023-09-26T18:48:06-07:00",
+				"url": "https://indw.blog/2023/09/26/yesterday-i-got.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/26/without-a-beard.html",
+				
+				"content_html": "<p>Without a beard I’m feeling very Bill Murray-esque. Of only I had the personality.</p>\n",
+				"content_text": "Without a beard I’m feeling very Bill Murray-esque. Of only I had the personality. \n",
+				"date_published": "2023-09-26T17:43:26-07:00",
+				"url": "https://indw.blog/2023/09/26/without-a-beard.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/25/ah-yes-the.html",
+				
+				"content_html": "<p>Ah yes, the $1000/mo student loan payments are back.</p>\n",
+				"content_text": "Ah yes, the $1000/mo student loan payments are back. \n",
+				"date_published": "2023-09-25T20:06:41-07:00",
+				"url": "https://indw.blog/2023/09/25/ah-yes-the.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/25/i-dont-care.html",
+				
+				"content_html": "<blockquote>\n<p>I don&rsquo;t care if it rains or freezes<!-- raw HTML omitted -->\nLong as I&rsquo;ve got my plastic Jesus <!-- raw HTML omitted -->\nSitting on the dashboard of my car <!-- raw HTML omitted -->\nComes in colors pink and pleasant <!-- raw HTML omitted -->\nGlows in the dark cause it&rsquo;s iridescent <!-- raw HTML omitted -->\nTake it with you &hellip; when you travel far. <!-- raw HTML omitted --></p>\n</blockquote>\n<blockquote>\n<p>Get yourself a sweet Madonna <!-- raw HTML omitted -->\nDressed in rhinestones sitting on a <!-- raw HTML omitted -->\nPedestal of abalone shell <!-- raw HTML omitted -->\nGoing ninety I ain&rsquo;t scary <!-- raw HTML omitted -->\nCause I&rsquo;ve got the Virgin Mary <!-- raw HTML omitted -->\nAssuring me that I won&rsquo;t go to hell. <!-- raw HTML omitted --></p>\n</blockquote>\n<p>~Cool Hand Luke</p>\n",
+				"content_text": ">I don't care if it rains or freezes<br>\n>Long as I've got my plastic Jesus <br>\n>Sitting on the dashboard of my car <br>\n>Comes in colors pink and pleasant <br>\n>Glows in the dark cause it's iridescent <br>\n>Take it with you ... when you travel far. <br>\n\n>Get yourself a sweet Madonna <br>\n>Dressed in rhinestones sitting on a <br>\n>Pedestal of abalone shell <br>\n>Going ninety I ain't scary <br>\n>Cause I've got the Virgin Mary <br>\n>Assuring me that I won't go to hell. <br>\n\n~Cool Hand Luke \n",
+				"date_published": "2023-09-25T16:55:50-07:00",
+				"url": "https://indw.blog/2023/09/25/i-dont-care.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/24/finally-got-the.html",
+				
+				"content_html": "<p>Finally got the garage mostly cleaned up today. Living in a small house, our family’s spillover ends up cluttering up the garage where it acts as a catch-all for everything from half finished projects to underutilized baby paraphernalia. Felt good to get it somewhat organized. Then we played.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Finally got the garage mostly cleaned up today. Living in a small house, our family’s spillover ends up cluttering up the garage where it acts as a catch-all for everything from half finished projects to underutilized baby paraphernalia. Felt good to get it somewhat organized. Then we played. \n\n<img src=\"uploads/2023/4a8542fe5f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ec1d181ef6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-24T22:08:32-07:00",
+				"url": "https://indw.blog/2023/09/24/finally-got-the.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/24/yesterday-we-went.html",
+				
+				"content_html": "<p>Yesterday we went to the rhododendron garden in Sellwood for the first time. Today, me and the wife are taking turns with the kids so we can alternate in the hot tub and sauna here at the community pool before we grab something for lunch at the new cart pod in downtown Hillsboro.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Yesterday we went to the rhododendron garden in Sellwood for the first time. Today, me and the wife are taking turns with the kids so we can alternate in the hot tub and sauna here at the community pool before we grab something for lunch at the new cart pod in downtown Hillsboro. \n\n<img src=\"https://indw.blog/uploads/2023/0d55420ea4.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://indw.blog/uploads/2023/6d6225007e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-24T11:16:31-07:00",
+				"url": "https://indw.blog/2023/09/24/yesterday-we-went.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/23/shaved-my-face.html",
+				
+				"content_html": "<p>Shaved my face for the first time in maybe a decade and people keep looking at me strange…including myself !</p>\n",
+				"content_text": "Shaved my face for the first time in maybe a decade and people keep looking at me strange…including myself !\n",
+				"date_published": "2023-09-23T18:41:00-07:00",
+				"url": "https://indw.blog/2023/09/23/shaved-my-face.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/23/first-day-of.html",
+				
+				"content_html": "<p>First day of seasonal depression.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First day of seasonal depression. \n\n<img src=\"https://indw.blog/uploads/2023/2f9919a0c1.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-09-23T13:54:41-07:00",
+				"url": "https://indw.blog/2023/09/23/first-day-of.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/23/i-have-very.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I have very evidently entered the phase of adulthood where everyone I know in the Northwest is moving back to the Midwest. Another good friend announced they’re moving away from Portland so that they can finally afford a house. It’s getting pretty lonely out here. Honestly, if I could convince my wife, I’d move back to Michigan in a heartbeat.</p>\n",
+				"date_published": "2023-09-23T08:44:30-07:00",
+				"url": "https://indw.blog/2023/09/23/i-have-very.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/22/friday-blog.html",
+				"title": "Friday Blog, Sept. 22",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<ul>\n<li>The kids are watching a movie (Spy Kids: Armageddon) and my wife is off with her girlfriends paddle boarding. We’re winding down after a somewhat stressful week while DW gets some much needed time for herself.<br /><br /></li>\n<li>I finished a big report I was writing for work early in the week, a few weeks early no less, so I feel like I can release some of the extra anxiety that has been burdening me unnecessarily. I’ve also been waiting on some pretty important work news since May and I still haven’t gotten any word about it. As a result, I haven’t been sleeping the best again and it’s made for some tougher days than normal, especially with the kids.<br /><br /></li>\n<li>My daughter was sick and throwing up earlier in the week, so I ended up not working on Tuesday and just taking care of her. It was nice to spend some one-on-one time with her like I did with my son when he was her age. She got over her stomach bug pretty quickly, thankfully.<br /><br /></li>\n<li>I actually picked up a couple new pieces of clothing. I have a habit of not spending much money on myself in this respect. I don’t know why I’m surprised when I look back at pictures from a few years ago and see myself wearing something that is still in my current wardrobe. So this week I made it a point to go through my things and pull out some stuff that I’m not super thrilled to be wearing anymore and bagged it up to donate. I went up to Marshall’s and actually found a pair of jeans from a brand I like (Madewell) for about 1/5th the cost of new. I like this brand because they don’t use logos and the cuts seem to fit me well.<br /><br /></li>\n<li>It’s the last day of summer and my favorite time of the year in this part of the world. We’ve been having some pretty clear days, which have been fairly warm and clear but not too hot. Rain is on the horizon, so I’m soaking it up.<br /><br /></li>\n<li>Halloween is right around the corner and we are all planning on going around the neighborhood dressed up as the Mystery Inc. gang from Scooby-Doo. I am wanting to construct a Mystery Machine out of cardboard, some paint, and a wagon. So I should probably get started on that maybe this weekend. My son and I picked up some decorations from Home Depot, including a nearly full-size skeleton that we hung on the front of the house. I’m also growing some pumpkins for the very first time. The largest of the two appears to be slowly turning orange.<br /><br /></li>\n<li>I am feeling pretty good heading into the holidays coming up. I have been diligent about putting away a little money here and there for Christmas so we can hopefully just enjoy the season and not stress out about money or over-extending ourselves and putting things on credit. <br /><br /></li>\n<li>I got a few small things done around the house despite not getting my drywalling project in the kitchen done. I swapped out the valve for the bathroom shower so it no longer drip drip drips! I also fixed the door to my daughter’s room so it doesn’t stick when you open or close it. This was a pain when we’d just put her to bed and the door would squeak when we attempted to leave the room, sometimes waking her up. Used a huge 6” cabinet screw in place of a hinge screw to bring it truer. Good to have these small annoyances taken care of. Hoping to make more progress on the drywall project this week.</li>\n</ul>\n",
+				"date_published": "2023-09-22T19:24:54-07:00",
+				"url": "https://indw.blog/2023/09/22/friday-blog.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/22/every-once-in.html",
+				
+				"content_html": "<p>Every once in a while, a lyric so profound hits you in the face so hard that you never forget it:</p>\n<blockquote>\n<p>Somewhere in the asshole of my eye<!-- raw HTML omitted -->\nThere&rsquo;s a muscle which relaxes when you cry</p>\n</blockquote>\n<p><em>Inoculate the Innocuous</em> by The Unicorns</p>\n<p>Happy almost 20th anniversary of the release of <!-- raw HTML omitted -->Who Will Cut Your Hair When We&rsquo;re Gone?<!-- raw HTML omitted --></p>\n",
+				"content_text": "Every once in a while, a lyric so profound hits you in the face so hard that you never forget it:\n\n>Somewhere in the asshole of my eye<br>\n>There's a muscle which relaxes when you cry\n\n*Inoculate the Innocuous* by The Unicorns\n\nHappy almost 20th anniversary of the release of <a href=\"https://music.apple.com/us/album/inoculate-the-innocuous/897570398?i=897570606\">Who Will Cut Your Hair When We're Gone?</a>\n",
+				"date_published": "2023-09-22T14:58:29-07:00",
+				"url": "https://indw.blog/2023/09/22/every-once-in.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/22/day-road-snapped.html",
+				
+				"content_html": "<p>Day 22: <strong>Road</strong>. Snapped this while walking from 10 Barrel Brewing to Pioneer Square for the Built to Spill concert a few weeks ago. As a planner, this makes my heart go pitter-patter.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 22: **Road**. Snapped this while walking from 10 Barrel Brewing to Pioneer Square for the Built to Spill concert a few weeks ago. As a planner, this makes my heart go pitter-patter. \n\n<img src=\"https://indw.blog/uploads/2023/5ba99d167e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-22T10:04:02-07:00",
+				"url": "https://indw.blog/2023/09/22/day-road-snapped.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/22/eastern-oregon-is.html",
+				
+				"content_html": "<p>Eastern Oregon is as backwards as anywhere.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Eastern Oregon is as backwards as anywhere. \n\n<img src=\"https://indw.blog/uploads/2023/a7d515fcb4.jpg\" width=\"600\" height=\"581\" alt=\"\">\n",
+				"date_published": "2023-09-22T07:55:27-07:00",
+				"url": "https://indw.blog/2023/09/22/eastern-oregon-is.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/21/i-see-that.html",
+				
+				"content_html": "<p>I see that Nikon has released a retro camera called the <a href=\"https://petapixel.com/2023/09/19/nikon-zf-hands-on-review-nostalgic-toy-or-modern-classic/\">Zf</a>. Looks neat. I wish Canon would do the same.</p>\n",
+				"content_text": "I see that Nikon has released a retro camera called the [Zf](https://petapixel.com/2023/09/19/nikon-zf-hands-on-review-nostalgic-toy-or-modern-classic/). Looks neat. I wish Canon would do the same. \n",
+				"date_published": "2023-09-21T23:28:31-07:00",
+				"url": "https://indw.blog/2023/09/21/i-see-that.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/21/i-think-i.html",
+				
+				"content_html": "<p>I think I was going into overload trying out all the various federated platforms and blog options. Also super burnt out on boosts and likes over on Mastodon. So I’m taking a break from all that noise and back here at my home base of Micro.blog.</p>\n",
+				"content_text": "I think I was going into overload trying out all the various federated platforms and blog options. Also super burnt out on boosts and likes over on Mastodon. So I’m taking a break from all that noise and back here at my home base of Micro.blog. \n",
+				"date_published": "2023-09-21T22:25:02-07:00",
+				"url": "https://indw.blog/2023/09/21/i-think-i.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/09/21/183848.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://indw.blog/uploads/2023/9bb8bc35ac.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-21T18:38:48-07:00",
+				"url": "https://indw.blog/2023/09/21/183848.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2023/09/21/some-thoughts-today.html",
 				
-				"content_html": "<p>Some thoughts today:</p>\n<p>*Sometimes a breakfast burrito can reorient the direction of a bad morning and turn your day into a better one.</p>\n<p>*Be more careful with knives. I almost sliced myself pretty badly be careless with my pocket knife while cutting a fishing line for my son. Thankfully I was only grazed.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some thoughts today:\n\n*Sometimes a breakfast burrito can reorient the direction of a bad morning and turn your day into a better one. \n\n*Be more careful with knives. I almost sliced myself pretty badly be careless with my pocket knife while cutting a fishing line for my son. Thankfully I was only grazed.\n\n<img src=\"uploads/2023/e70c0d7eac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Some thoughts today:</p>\n<ul>\n<li>\n<p>Sometimes a breakfast burrito can reorient the direction of a bad morning and turn your day into a better one.</p>\n</li>\n<li>\n<p>Be more careful with knives. I almost sliced myself pretty badly being careless with my pocket knife while cutting a fishing line for my son. Thankfully I was only grazed. It is not entirely inconceivable that if I had not eaten that breakfast burrito in the morning, I might’ve spent the afternoon getting stitches.</p>\n</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Some thoughts today:\n\n- Sometimes a breakfast burrito can reorient the direction of a bad morning and turn your day into a better one. \n\n- Be more careful with knives. I almost sliced myself pretty badly being careless with my pocket knife while cutting a fishing line for my son. Thankfully I was only grazed. It is not entirely inconceivable that if I had not eaten that breakfast burrito in the morning, I might’ve spent the afternoon getting stitches. \n\n<img src=\"https://indw.blog/uploads/2023/e70c0d7eac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-21T18:08:53-07:00",
 				"url": "https://indw.blog/2023/09/21/some-thoughts-today.html",
 				"tags": ["Notes","Photos"]
@@ -28,7 +172,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/09/19/home-with-my.html",
 				
 				"content_html": "<p>Home with my daughter today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home with my daughter today. \n\n<img src=\"uploads/2023/5ea19d2e72.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Home with my daughter today. \n\n<img src=\"https://indw.blog/uploads/2023/5ea19d2e72.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-19T17:42:42-07:00",
 				"url": "https://indw.blog/2023/09/19/home-with-my.html",
 				"tags": ["Notes","Photos"]
@@ -180,8 +324,8 @@
 			{
 				"id": "http://inthedeltawaves.micro.blog/2023/09/14/september-photo-challenge.html",
 				
-				"content_html": "<p>September photo challenge: statue.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "September photo challenge: statue. \n\n<img src=\"https://indw.blog/uploads/2023/004b00d094.jpg\" width=\"600\" height=\"402\" alt=\"\">\n",
+				"content_html": "<p>September photo challenge: <strong>statue</strong>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "September photo challenge: **statue**. \n\n<img src=\"https://indw.blog/uploads/2023/004b00d094.jpg\" width=\"600\" height=\"402\" alt=\"\">\n",
 				"date_published": "2023-09-14T09:22:35-07:00",
 				"url": "https://indw.blog/2023/09/14/september-photo-challenge.html",
 				"tags": ["Notes","Photos"]
@@ -221,15 +365,6 @@
 				"date_published": "2023-09-09T19:44:21-07:00",
 				"url": "https://indw.blog/2023/09/09/the-spirit-begins.html",
 				"tags": ["Notes","Photos"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2023/09/08/sample-post-no.html",
-				"title": "Sample post no. 50!!!",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is where I write my post, no?</p>\n",
-				"date_published": "2023-09-08T17:00:00-07:00",
-				"url": "https://indw.blog/2023/09/08/sample-post-no.html",
-				"tags": ["Blog"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2023/09/08/todays-hike.html",
@@ -1870,15 +2005,6 @@
 				"tags": ["Notes","Photos"]
 			},
 			{
-				"id": "http://inthedeltawaves.micro.blog/2023/06/09/sample-post-number.html",
-				"title": "Sample post number 33 (with disclaimer!)",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><b>Disclaimer:</b> This is a text disclaimer. It will be visible on the article page and in RSS / JSON feeds.</p><p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2023-06-09T17:00:00-07:00",
-				"url": "https://indw.blog/2023/06/09/sample-post-number.html",
-				"tags": ["Blog"]
-			},
-			{
 				"id": "http://inthedeltawaves.micro.blog/2023/06/09/is-participation-in.html",
 				
 				"content_html": "<p>Is participation in the Micro.blog timeline an all or nothing affair?</p>\n<p>I saw the update about post-specific sharing for cross-posting, but what about right here on the Mb timeline? <a href=\"https://micro.blog/help\">@help</a></p>\n",
@@ -2183,15 +2309,6 @@
 				"date_published": "2023-05-30T21:08:15-07:00",
 				"url": "https://indw.blog/2023/05/30/our-roses-are.html",
 				"tags": ["Notes","Photos"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2023/05/30/sample-post-number.html",
-				"title": "Sample post number 32 (with linked disclaimer!)",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><b>Disclaimer:</b> <a href=\"https://example.org/\">This is a disclaimer that links to a different page →</a></p><p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2023-05-30T17:00:00-07:00",
-				"url": "https://indw.blog/2023/05/30/sample-post-number.html",
-				"tags": ["Blog"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2023/05/30/id-like-to.html",
@@ -3004,15 +3121,6 @@
 				"tags": ["Notes"]
 			},
 			{
-				"id": "http://inthedeltawaves.micro.blog/2023/04/30/sample-post-number.html",
-				"title": "Sample post number 31",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2023-04-30T17:00:00-07:00",
-				"url": "https://indw.blog/2023/04/30/sample-post-number.html",
-				"tags": ["Blog"]
-			},
-			{
 				"id": "http://inthedeltawaves.micro.blog/2023/04/30/one-of-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -3236,15 +3344,6 @@
 				"date_published": "2023-04-12T22:34:33-07:00",
 				"url": "https://indw.blog/2023/04/12/a-mural-i.html",
 				"tags": ["Notes","Photos"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2023/04/11/sample-post.html",
-				"title": "Sample post 30",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2023-04-11T17:00:00-07:00",
-				"url": "https://indw.blog/2023/04/11/sample-post.html",
-				"tags": ["Blog"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2023/04/08/had-such-a.html",
@@ -5389,15 +5488,6 @@
 				"tags": ["Notes","Photos"]
 			},
 			{
-				"id": "http://inthedeltawaves.micro.blog/2022/12/11/sample-post-number.html",
-				"title": "Sample post number 24",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2022-12-11T17:00:00-07:00",
-				"url": "https://indw.blog/2022/12/11/sample-post-number.html",
-				"tags": ["Blog"]
-			},
-			{
 				"id": "http://inthedeltawaves.micro.blog/2022/12/11/we-get-to.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -5686,33 +5776,6 @@
 				"tags": ["Notes","Photos"]
 			},
 			{
-				"id": "http://inthedeltawaves.micro.blog/2022/06/09/sample-post-number.html",
-				"title": "Sample post number 23",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2022-06-09T17:00:00-07:00",
-				"url": "https://indw.blog/2022/06/09/sample-post-number.html",
-				"tags": ["Blog"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2022/05/30/sample-post-number.html",
-				"title": "Sample post number 22",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2022-05-30T17:00:00-07:00",
-				"url": "https://indw.blog/2022/05/30/sample-post-number.html",
-				"tags": ["Blog"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2022/04/30/sample-post-number.html",
-				"title": "Sample post number 21",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2022-04-30T17:00:00-07:00",
-				"url": "https://indw.blog/2022/04/30/sample-post-number.html",
-				"tags": ["Blog"]
-			},
-			{
 				"id": "http://inthedeltawaves.micro.blog/2022/04/14/081507.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -5720,15 +5783,6 @@
 				"date_published": "2022-04-14T08:15:07-07:00",
 				"url": "https://indw.blog/2022/04/14/081507.html",
 				"tags": ["Notes","Photos"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2022/04/11/sample-post.html",
-				"title": "Sample post 20",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2022-04-11T17:00:00-07:00",
-				"url": "https://indw.blog/2022/04/11/sample-post.html",
-				"tags": ["Blog"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2022/04/03/174825.html",
@@ -5963,15 +6017,6 @@
 				"date_published": "2021-12-19T15:40:27-07:00",
 				"url": "https://indw.blog/2021/12/19/154027.html",
 				"tags": ["Notes","Photos"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2021/12/11/sample-post-number.html",
-				"title": "Sample post number 14",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2021-12-11T17:00:00-07:00",
-				"url": "https://indw.blog/2021/12/11/sample-post-number.html",
-				"tags": ["Blog"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2021/12/11/im-an-ice.html",
@@ -6638,15 +6683,6 @@
 				"date_published": "2021-06-10T20:25:09-07:00",
 				"url": "https://indw.blog/2021/06/10/im-still-not.html",
 				"tags": ["Notes","Photos"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2021/06/09/sample-post-number.html",
-				"title": "Sample post number 13",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.</p>\n<p><strong>This is the second paragraph of this post.</strong> Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.</p>\n<p>Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.</p>\n<p>Proin at leo porttitor, molestie sapien ac, eleifend nibh. Etiam a rutrum turpis, vitae ultricies mi. Mauris posuere urna lectus, vitae porta est mollis vitae. Pellentesque sit amet nibh et erat fringilla egestas eget sit amet dui. Ut placerat tempor euismod. Nam vitae tortor convallis, porta mauris eu, rutrum nisl. Mauris justo nibh, elementum id mi sit amet, pellentesque ullamcorper quam. Nam cursus vel mi lobortis ultrices. Ut a nisi non est tristique viverra eget a nibh. Maecenas id velit sit amet turpis sollicitudin tincidunt. Vestibulum pharetra lectus nec felis faucibus suscipit. Praesent eu orci risus. Vivamus luctus feugiat neque pretium ultrices. Donec dignissim eros vitae nunc porttitor mattis. Duis eu velit pulvinar, viverra neque aliquet, accumsan mauris. Pellentesque sollicitudin tincidunt elit sed tincidunt.</p>\n<p>Cras suscipit ex sapien, in mollis leo tristique nec. Quisque at commodo mauris, vel eleifend lorem. Duis orci magna, bibendum non sapien eget, semper facilisis neque. Mauris ut euismod urna, ac ultricies diam. Nullam a nunc non metus ornare ultricies ut tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam velit ipsum, aliquam in cursus in, pretium eget urna. Suspendisse eu augue sed mauris congue tristique. In laoreet risus non elit iaculis, ut efficitur tellus tincidunt. Maecenas a dapibus lacus. Cras vitae leo tincidunt, volutpat sapien vitae, efficitur turpis. Nam ac neque quis ante pulvinar tempor. Quisque accumsan, magna ac aliquet condimentum, tortor metus facilisis felis, sit amet fringilla elit neque non felis. Fusce viverra ut metus ut ornare.</p>\n<p>Donec maximus auctor fermentum. Morbi gravida mollis nisl congue aliquet. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.</p>\n",
-				"date_published": "2021-06-09T17:00:00-07:00",
-				"url": "https://indw.blog/2021/06/09/sample-post-number.html",
-				"tags": ["Blog"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2021/06/06/spent-all-weekend.html",
