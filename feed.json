@@ -1,16 +1,205 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "An Elephant In the Delta Waves",
-	"icon": "https://micro.blog/BRYNBRRY/avatar.jpg",
+	"icon": "https://micro.blog/bryan/avatar.jpg",
 	"home_page_url": "https://indw.blog/",
 	"feed_url": "https://indw.blog/feed.json",
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/07/if-you-wanna.html",
+				
+				"content_html": "<blockquote>\n<p>If you wanna be happy for the rest of your life\nNever make a pretty woman your wife\nIf you want my personal point of view\nGet an ugly girl to marry you</p>\n</blockquote>\n<p><a href=\"https://music.apple.com/us/album/if-you-wanna-be-happy/494670039?i=494670217\">If you wanna be happy</a> by Jimmy Soul</p>\n",
+				"content_text": ">If you wanna be happy for the rest of your life\n>Never make a pretty woman your wife\n>If you want my personal point of view\n>Get an ugly girl to marry you \n\n[If you wanna be happy](https://music.apple.com/us/album/if-you-wanna-be-happy/494670039?i=494670217) by Jimmy Soul\n",
+				"date_published": "2023-10-07T09:36:57-07:00",
+				"url": "https://indw.blog/2023/10/07/if-you-wanna.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/06/its-amazing-how.html",
+				
+				"content_html": "<p>It’s amazing how often Mexican restaurants in the U.S. try to pass dishes off as vegetarian when their refried beans contain lard. It’s the standard, not the exception.</p>\n",
+				"content_text": "It’s amazing how often Mexican restaurants in the U.S. try to pass dishes off as vegetarian when their refried beans contain lard. It’s the standard, not the exception. \n",
+				"date_published": "2023-10-06T19:20:35-07:00",
+				"url": "https://indw.blog/2023/10/06/its-amazing-how.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/06/lately-my-body.html",
+				
+				"content_html": "<p>Lately my body feels like it’s my enemy.</p>\n",
+				"content_text": "Lately my body feels like it’s my enemy. \n",
+				"date_published": "2023-10-06T14:09:25-07:00",
+				"url": "https://indw.blog/2023/10/06/lately-my-body.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/06/if-anyone-can.html",
+				
+				"content_html": "<p>If anyone can recommend a treadmill, it would be appreciated. Looking on the used market but also new ones that won’t break the bank.</p>\n",
+				"content_text": "If anyone can recommend a treadmill, it would be appreciated. Looking on the used market but also new ones that won’t break the bank. \n",
+				"date_published": "2023-10-06T09:43:59-07:00",
+				"url": "https://indw.blog/2023/10/06/if-anyone-can.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/05/there-is-this.html",
+				
+				"content_html": "<p>There is this guy on YouTube I love whose channel is called <a href=\"https://www.youtube.com/@CityNerd\">CityNerd</a>. He used to be a transportation planning consultant. I just watched for like an hour, completely engrossed. My wife&rsquo;s guilty pleasure is reality TV, mine is nerding out with transportation planners.</p>\n",
+				"content_text": "There is this guy on YouTube I love whose channel is called [CityNerd](https://www.youtube.com/@CityNerd). He used to be a transportation planning consultant. I just watched for like an hour, completely engrossed. My wife's guilty pleasure is reality TV, mine is nerding out with transportation planners. \n",
+				"date_published": "2023-10-05T23:15:25-07:00",
+				"url": "https://indw.blog/2023/10/05/there-is-this.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/05/evidently-ive-reached.html",
+				
+				"content_html": "<p>Evidently I’ve reached the point in my DIY home improvement career that my wife has begun offering my services to her single friends. This must be a little taste of what it’s like to own a truck.</p>\n",
+				"content_text": "Evidently I’ve reached the point in my DIY home improvement career that my wife has begun offering my services to her single friends. This must be a little taste of what it’s like to own a truck. \n",
+				"date_published": "2023-10-05T18:30:10-07:00",
+				"url": "https://indw.blog/2023/10/05/evidently-ive-reached.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/05/if-you-ever.html",
+				
+				"content_html": "<p>If you ever want some cheap entertainment, pack a lunch and head over to the parking lot of your local Habitat ReStore. Watch as people who are spatially challenged attempt to load furniture into their cars.</p>\n",
+				"content_text": "If you ever want some cheap entertainment, pack a lunch and head over to the parking lot of your local Habitat ReStore. Watch as people who are spatially challenged attempt to load furniture into their cars. \n",
+				"date_published": "2023-10-05T12:11:44-07:00",
+				"url": "https://indw.blog/2023/10/05/if-you-ever.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/05/i-just-finished.html",
+				
+				"content_html": "<p>I just finished up re-watching Season 1 of Arrival in its entirety with my wife on Tuesday night because she hadn’t seen it and I wanted to start Season 2. I think she’s a bigger fan than I am. Two years between seasons is a long time to wait.</p>\n",
+				"content_text": "I just finished up re-watching Season 1 of Arrival in its entirety with my wife on Tuesday night because she hadn’t seen it and I wanted to start Season 2. I think she’s a bigger fan than I am. Two years between seasons is a long time to wait. \n",
+				"date_published": "2023-10-05T10:48:14-07:00",
+				"url": "https://indw.blog/2023/10/05/i-just-finished.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/05/more-rambling-on.html",
+				"title": "More rambling on housing affordability",
+				"content_html": "<p>Real estate prices have been going down a little, but affordability is still a major issue. For example, a 984 sq. ft. house with 3 bedrooms and 2 baths in my area just sold for $400k.</p>\n<p>To put this price into perspective at current interest rates, a buyer would need an annual household income of about $120,000 to qualify with 5% down.</p>\n<p>The median income for a family of 4 in the Portland region is $114,400. Median income for all households was $81,149 in 2021, according to the Oregon Employment Department.</p>\n<p>You would have to be in about the top 85th percentile of households in terms of income to afford this home in today&rsquo;s market. The payment would be about $3,100 per month on a standard 30-year mortgage.</p>\n",
+				"content_text": "Real estate prices have been going down a little, but affordability is still a major issue. For example, a 984 sq. ft. house with 3 bedrooms and 2 baths in my area just sold for $400k. \n\nTo put this price into perspective at current interest rates, a buyer would need an annual household income of about $120,000 to qualify with 5% down. \n\nThe median income for a family of 4 in the Portland region is $114,400. Median income for all households was $81,149 in 2021, according to the Oregon Employment Department. \n\nYou would have to be in about the top 85th percentile of households in terms of income to afford this home in today's market. The payment would be about $3,100 per month on a standard 30-year mortgage. \n\n",
+				"date_published": "2023-10-05T09:36:04-07:00",
+				"url": "https://indw.blog/2023/10/05/more-rambling-on.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/05/another-parent-at.html",
+				
+				"content_html": "<p>Another parent at my kids’ preschool drives one of those electric Porsches. Every time I pull up beside her in my beat up old car, I chuckle. While exchanging niceties, she looks at me with disdain as one of the “poors” and I watch amusedly as she struggles with the carseat.</p>\n",
+				"content_text": "Another parent at my kids’ preschool drives one of those electric Porsches. Every time I pull up beside her in my beat up old car, I chuckle. While exchanging niceties, she looks at me with disdain as one of the “poors” and I watch amusedly as she struggles with the carseat. \n",
+				"date_published": "2023-10-05T08:19:34-07:00",
+				"url": "https://indw.blog/2023/10/05/another-parent-at.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/04/i-added-a.html",
+				
+				"content_html": "<p>I added a second phone line on my iPhone for work. I used a budget MVNO called Tello for $10/mo since Verizon wanted to charge me $35. Almost everywhere I go, the Tello number has had more bars. I guess they use T-Mobile’s network.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I added a second phone line on my iPhone for work. I used a budget MVNO called Tello for $10/mo since Verizon wanted to charge me $35. Almost everywhere I go, the Tello number has had more bars. I guess they use T-Mobile’s network. \n\n<img src=\"https://indw.blog/uploads/2023/a4bd28e511.jpg\" width=\"600\" height=\"428\" alt=\"\">\n",
+				"date_published": "2023-10-04T17:25:08-07:00",
+				"url": "https://indw.blog/2023/10/04/i-added-a.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/04/i-was-listening.html",
+				
+				"content_html": "<p>I was listening to a podcast this morning that used the phrase “toxic positivity” to describe LinkedIn. Perfection 👌</p>\n",
+				"content_text": "I was listening to a podcast this morning that used the phrase “toxic positivity” to describe LinkedIn. Perfection 👌\n",
+				"date_published": "2023-10-04T11:45:37-07:00",
+				"url": "https://indw.blog/2023/10/04/i-was-listening.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/04/holy-crap-that.html",
+				
+				"content_html": "<p>Holy crap, that national alert just scared the bejeezus out of me.</p>\n<p>Thought the aliens had arrived.</p>\n",
+				"content_text": "Holy crap, that national alert just scared the bejeezus out of me. \n\nThought the aliens had arrived. \n",
+				"date_published": "2023-10-04T11:19:17-07:00",
+				"url": "https://indw.blog/2023/10/04/holy-crap-that.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/04/having-been-in.html",
+				
+				"content_html": "<p>Having been in a software developer heavy social media world for the last year (Mastodon et. al), I’ve come across the word “opinionated” often to describe certain FOSS or site templates.</p>\n<p>I understand it doesn’t exactly have the same meaning in that context, but it got me thinking that being opinionated in my field (urban planning) is equivalent to activism and is heavily discouraged. It can ruin people’s careers.</p>\n<p>This is probably the most difficult part of the job for me. When your livelihood and family rely on you for support, it’s very difficult to risk it all just to share opinions, particularly unpopular ones.</p>\n<p>When I was younger, I thought conformity was stupid. As an adult, I see it as necessary for survival. And my thoughts on freedom have changed as a result. I’m now thinking that people that make their own lunch so to speak, the business owners and self-sufficient, the wealthy, are the only ones who can truly share their open and honest opinions without major repercussions.</p>\n",
+				"content_text": "Having been in a software developer heavy social media world for the last year (Mastodon et. al), I’ve come across the word “opinionated” often to describe certain FOSS or site templates. \n\nI understand it doesn’t exactly have the same meaning in that context, but it got me thinking that being opinionated in my field (urban planning) is equivalent to activism and is heavily discouraged. It can ruin people’s careers. \n\nThis is probably the most difficult part of the job for me. When your livelihood and family rely on you for support, it’s very difficult to risk it all just to share opinions, particularly unpopular ones. \n\nWhen I was younger, I thought conformity was stupid. As an adult, I see it as necessary for survival. And my thoughts on freedom have changed as a result. I’m now thinking that people that make their own lunch so to speak, the business owners and self-sufficient, the wealthy, are the only ones who can truly share their open and honest opinions without major repercussions. \n",
+				"date_published": "2023-10-04T09:25:56-07:00",
+				"url": "https://indw.blog/2023/10/04/having-been-in.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/03/the-photos-app.html",
+				
+				"content_html": "<p>The photos app is always showing me memories of all the fun times I had pre-kids! Halloween 2010, Lansing, Michigan. Quality Dairy parking lot, on the way to a party on the River Princess.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The photos app is always showing me memories of all the fun times I had pre-kids! Halloween 2010, Lansing, Michigan. Quality Dairy parking lot, on the way to a party on the River Princess. \n\n<img src=\"https://indw.blog/uploads/2023/bfd2303f62.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-10-03T16:55:58-07:00",
+				"url": "https://indw.blog/2023/10/03/the-photos-app.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/03/some-happy-little.html",
+				
+				"content_html": "<p>Some happy little Micro.blog news for me. I had been struggling to find a simple username I liked. Someone already had the <a href=\"https://micro.blog/bryan\">@bryan</a> handle but he hadn&rsquo;t updated his blog in 5 years. I reached out to him on Mastodon and he agreed to let me take it over! Very gracious of him and I&rsquo;m grateful!</p>\n",
+				"content_text": "Some happy little Micro.blog news for me. I had been struggling to find a simple username I liked. Someone already had the [@bryan](https://micro.blog/bryan) handle but he hadn't updated his blog in 5 years. I reached out to him on Mastodon and he agreed to let me take it over! Very gracious of him and I'm grateful!\n",
+				"date_published": "2023-10-03T15:16:48-07:00",
+				"url": "https://indw.blog/2023/10/03/some-happy-little.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/03/currently-a-personal.html",
+				
+				"content_html": "<p>Currently writing a personal bio as a professional introduction for other staff in my new department. One of my least favorite things. Striking a balance between accomplished yet humble is a struggle. Stick to the facts I guess.</p>\n",
+				"content_text": "Currently writing a personal bio as a professional introduction for other staff in my new department. One of my least favorite things. Striking a balance between accomplished yet humble is a struggle. Stick to the facts I guess. \n",
+				"date_published": "2023-10-03T12:42:18-07:00",
+				"url": "https://indw.blog/2023/10/03/currently-a-personal.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/03/in-about-month.html",
+				
+				"content_html": "<p>In about a month I get to take my son to his first concert. Ever since watching the Scooby-Doo and KISS movie, he’s loved KISS. So, in yet another experiment in parenting, we’re taking a trip up to Seattle on Amtrak to see them for their farewell tour. Should be entertaining!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In about a month I get to take my son to his first concert. Ever since watching the Scooby-Doo and KISS movie, he’s loved KISS. So, in yet another experiment in parenting, we’re taking a trip up to Seattle on Amtrak to see them for their farewell tour. Should be entertaining! \n\n<img src=\"https://indw.blog/uploads/2023/90f3589e14.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-03T09:32:55-07:00",
+				"url": "https://indw.blog/2023/10/03/in-about-month.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/02/man-the-hudson.html",
+				
+				"content_html": "<p>Man, the Hudson Tower in Detroit is getting massive. What a beauty by SHoP Architects. Photo by <a href=\"https://instagram.com/dcholmes?igshid=MzRlODBiNWFlZA==\">dcholmes</a> on Instagram.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Man, the Hudson Tower in Detroit is getting massive. What a beauty by SHoP Architects. Photo by [dcholmes](https://instagram.com/dcholmes?igshid=MzRlODBiNWFlZA==) on Instagram. \n\n<img src=\"https://indw.blog/uploads/2023/06549dc72d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-02T21:43:35-07:00",
+				"url": "https://indw.blog/2023/10/02/man-the-hudson.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/02/just-got-a.html",
+				
+				"content_html": "<p>Just got a second line for work on my phone with eSIM through Tello. Surprisingly easy and affordable, so hopefully the service is OK. No more desktop-based NEC Softphone for me!</p>\n<p>Looks like I can also run a time-based iOS Shortcuts automation to disable the secondary work number after hours.</p>\n",
+				"content_text": "Just got a second line for work on my phone with eSIM through Tello. Surprisingly easy and affordable, so hopefully the service is OK. No more desktop-based NEC Softphone for me! \n\nLooks like I can also run a time-based iOS Shortcuts automation to disable the secondary work number after hours. \n",
+				"date_published": "2023-10-02T15:40:47-07:00",
+				"url": "https://indw.blog/2023/10/02/just-got-a.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/10/02/this-album-dropped.html",
+				
+				"content_html": "<p>This album dropped 28 years ago this month and it rocked my 14-year-old world.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This album dropped 28 years ago this month and it rocked my 14-year-old world.\n\n<img src=\"https://indw.blog/uploads/2023/530d7225c7.jpg\" width=\"316\" height=\"316\" alt=\"\">\n",
+				"date_published": "2023-10-02T09:06:27-07:00",
+				"url": "https://indw.blog/2023/10/02/this-album-dropped.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2023/10/01/does-the-ios.html",
 				
 				"content_html": "<p>Does the iOS share sheet to the Micro.blog app work for anybody? This is what I get no matter what I try to share.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Does the iOS share sheet to the Micro.blog app work for anybody? This is what I get no matter what I try to share. \n\n\n\n<img src=\"uploads/2023/78301c85d5.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"content_text": "Does the iOS share sheet to the Micro.blog app work for anybody? This is what I get no matter what I try to share. \n\n\n\n<img src=\"https://indw.blog/uploads/2023/78301c85d5.png\" width=\"296\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-01T13:27:50-07:00",
 				"url": "https://indw.blog/2023/10/01/does-the-ios.html",
 				"tags": ["Notes","Photos"]
@@ -37,7 +226,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/09/30/i-heard-saddle.html",
 				
 				"content_html": "<p>I heard Saddle Mountain in the Oregon Coast Range is back open. I miss that hike. It’s a few years old, but here’s a photo at the top.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I heard Saddle Mountain in the Oregon Coast Range is back open. I miss that hike. It’s a few years old, but here’s a photo at the top.\n\n<img src=\"uploads/2023/71b35cd1e6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I heard Saddle Mountain in the Oregon Coast Range is back open. I miss that hike. It’s a few years old, but here’s a photo at the top.\n\n<img src=\"https://indw.blog/uploads/2023/71b35cd1e6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-30T22:50:00-07:00",
 				"url": "https://indw.blog/2023/09/30/i-heard-saddle.html",
 				"tags": ["Notes","Photos"]
