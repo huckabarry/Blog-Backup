@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/06/me-and-my.html",
+				
+				"content_html": "<p>Me and my boy saw KISS in Seattle tonight!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Me and my boy saw KISS in Seattle tonight! \n\n<img src=\"uploads/2023/5ea3e2829e.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/63a38382e5.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/7bf4a151c4.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/1fada00be4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-06T23:20:21-08:00",
+				"url": "https://indw.blog/2023/11/06/me-and-my.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/06/waiting-for-ourbus.html",
+				
+				"content_html": "<p>Waiting for our…bus.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Waiting for our…bus. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://indw.blog/uploads/2023/image.mp4\" width=\"640\" height=\"1138\" poster=\"https://indw.blog/uploads/2023/c8ca06880c.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-11-06T12:30:48-08:00",
+				"url": "https://indw.blog/2023/11/06/waiting-for-ourbus.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/06/figures-havent-taken.html",
+				
+				"content_html": "<p>Figures. Haven’t taken the train in forever and now it’s going to be a bus ride due to a landslide.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Figures. Haven’t taken the train in forever and now it’s going to be a bus ride due to a landslide.  \n\n<img src=\"uploads/2023/230897fc09.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-06T11:19:02-08:00",
+				"url": "https://indw.blog/2023/11/06/figures-havent-taken.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/05/looks-like-microblog.html",
+				
+				"content_html": "<p>Looks like Micro.blog forgot to fall back today, all the time stamps are an hour in the future.</p>\n",
+				"content_text": "Looks like Micro.blog forgot to fall back today, all the time stamps are an hour in the future. \n",
+				"date_published": "2023-11-05T17:57:23-08:00",
+				"url": "https://indw.blog/2023/11/05/looks-like-microblog.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/05/three-years-ago.html",
+				
+				"content_html": "<p>Three years ago, I was recognized as an Italian citizen and I’m going to visit the Veneto region where me and my children are registered. I’m really excited.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Three years ago, I was recognized as an Italian citizen and I’m going to visit the Veneto region where me and my children are registered. I’m really excited. \n\n<img src=\"uploads/2023/97db3b48e2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-05T10:59:54-08:00",
+				"url": "https://indw.blog/2023/11/05/three-years-ago.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/04/best-buds.html",
+				
+				"content_html": "<p>Best buds.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Best buds. \n\n<img src=\"https://indw.blog/uploads/2023/6c820e71b3.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-04T19:47:15-08:00",
+				"url": "https://indw.blog/2023/11/04/best-buds.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/04/the-paint-i.html",
+				
+				"content_html": "<p>The paint I got on my watch yesterday unlocked memories of seeing similarly speckled paint on my dad’s digital watches growing up.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The paint I got on my watch yesterday unlocked memories of seeing similarly speckled paint on my dad’s digital watches growing up. \n\n<img src=\"https://indw.blog/uploads/2023/e691c3accf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-04T11:16:07-07:00",
+				"url": "https://indw.blog/2023/11/04/the-paint-i.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/03/dad-can-we.html",
+				
+				"content_html": "<p>“Dad, can we put the skeleton away? I don’t want Santa to be freaked out.”</p>\n",
+				"content_text": "“Dad, can we put the skeleton away? I don’t want Santa to be freaked out.” \n",
+				"date_published": "2023-11-03T08:55:50-07:00",
+				"url": "https://indw.blog/2023/11/03/dad-can-we.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/02/just-began-training.html",
+				
+				"content_html": "<p>Just began training the new person for my old job as a courtesy, and I got such a strong deer-in-headlights look from them that I’m wondering if they’ll still be here next week.</p>\n",
+				"content_text": "Just began training the new person for my old job as a courtesy, and I got such a strong deer-in-headlights look from them that I’m wondering if they’ll still be here next week. \n",
+				"date_published": "2023-11-02T16:17:01-07:00",
+				"url": "https://indw.blog/2023/11/02/just-began-training.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/02/being-with-your.html",
+				
+				"content_html": "<p>Being with your partner for a while is to know them. This morning’s convo with my wife went something like this:</p>\n<p>Me: You know who I think you’d like? Sade.<!-- raw HTML omitted -->\nWife: How do you spell that?<!-- raw HTML omitted -->\nMe: S-A-D-E<!-- raw HTML omitted -->\nWife: What the hell?<!-- raw HTML omitted -->\nMe: Yeah.<!-- raw HTML omitted -->\nWife: <em>~Playing it on her phone~</em> Omg I love this!</p>\n",
+				"content_text": "Being with your partner for a while is to know them. This morning’s convo with my wife went something like this:\n\nMe: You know who I think you’d like? Sade.<br>\nWife: How do you spell that?<br>\nMe: S-A-D-E<br>\nWife: What the hell?<br>\nMe: Yeah.<br>\nWife: *~Playing it on her phone~* Omg I love this! \n",
+				"date_published": "2023-11-02T09:53:49-07:00",
+				"url": "https://indw.blog/2023/11/02/being-with-your.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/01/i-got-really.html",
+				
+				"content_html": "<p>I got really tired of scratching up all my polycarbonate lenses so I sent in my WP frames to have real glass lenses put in. It’s going to take a few weeks before I get them back, but I’m so excited!</p>\n",
+				"content_text": "I got really tired of scratching up all my polycarbonate lenses so I sent in my WP frames to have real glass lenses put in. It’s going to take a few weeks before I get them back, but I’m so excited! \n",
+				"date_published": "2023-11-01T23:53:29-07:00",
+				"url": "https://indw.blog/2023/11/01/i-got-really.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2023/11/01/i-feel-like.html",
 				
 				"content_html": "<p>I feel like Apple might’ve done something sneaky in the most recent update and removed my wife from the sharesheet in iOS Photos in order to force Family Sharing adoption.</p>\n",
@@ -19,7 +118,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/10/31/so-this-happened.html",
 				
 				"content_html": "<p>So this happened. Happy Halloween! 🎃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So this happened. Happy Halloween! 🎃 \n\n<img src=\"uploads/2023/db95e63f50.jpg\" width=\"600\" height=\"400\" alt=\"A family of four with two little kids, all dressed like Scooby doo and the gang with a cardboard box painted like the Mystery Machine. The baby is Scooby, the 4 year old is Shaggy, the dad is Fred and the Mom is Daphne. \">\n",
+				"content_text": "So this happened. Happy Halloween! 🎃 \n\n<img src=\"https://indw.blog/uploads/2023/db95e63f50.jpg\" width=\"600\" height=\"400\" alt=\"A family of four with two little kids, all dressed like Scooby doo and the gang with a cardboard box painted like the Mystery Machine. The baby is Scooby, the 4 year old is Shaggy, the dad is Fred and the Mom is Daphne. \">\n",
 				"date_published": "2023-10-31T19:50:58-07:00",
 				"url": "https://indw.blog/2023/10/31/so-this-happened.html",
 				"tags": ["Notes","Photos"]
@@ -28,7 +127,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/10/31/halloween-part-preschool.html",
 				
 				"content_html": "<p>Halloween Part 1: Preschool Batman. 🎃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Halloween Part 1: Preschool Batman. 🎃\n\n<img src=\"uploads/2023/6a9d8f3821.jpg\" width=\"480\" height=\"600\" alt=\"A 4 year old dressed as Batman, about to head into his preschool class. \">\n",
+				"content_text": "Halloween Part 1: Preschool Batman. 🎃\n\n<img src=\"https://indw.blog/uploads/2023/6a9d8f3821.jpg\" width=\"480\" height=\"600\" alt=\"A 4 year old dressed as Batman, about to head into his preschool class. \">\n",
 				"date_published": "2023-10-31T13:39:27-07:00",
 				"url": "https://indw.blog/2023/10/31/halloween-part-preschool.html",
 				"tags": ["Notes","Photos"]
@@ -37,7 +136,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/10/31/happy-halloween.html",
 				
 				"content_html": "<p>Happy Halloween 🎃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy Halloween 🎃 \n\n<img src=\"uploads/2023/d4c7c1586a.jpg\" width=\"600\" height=\"450\" alt=\"an early morning shot of the sky in a residential neighborhood with bright pink clouds.\">\n",
+				"content_text": "Happy Halloween 🎃 \n\n<img src=\"https://indw.blog/uploads/2023/d4c7c1586a.jpg\" width=\"600\" height=\"450\" alt=\"an early morning shot of the sky in a residential neighborhood with bright pink clouds.\">\n",
 				"date_published": "2023-10-31T07:42:43-07:00",
 				"url": "https://indw.blog/2023/10/31/happy-halloween.html",
 				"tags": ["Notes","Photos"]
