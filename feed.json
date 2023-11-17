@@ -7,13 +7,139 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/16/im-about-a.html",
+				
+				"content_html": "<p>I’m about a month into my new job and I’ve got to say that I’m loving it compared to my old one.</p>\n<p>Much like being in a bad relationship, sometimes it’s hard to see just how toxic your old employment situation was until you’re out of it.</p>\n",
+				"content_text": "I’m about a month into my new job and I’ve got to say that I’m loving it compared to my old one.\n\nMuch like being in a bad relationship, sometimes it’s hard to see just how toxic your old employment situation was until you’re out of it. \n",
+				"date_published": "2023-11-16T16:44:53-08:00",
+				"url": "https://indw.blog/2023/11/16/im-about-a.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/15/commute.html",
+				
+				"content_html": "<p>Commute.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Commute. \n\n<img src=\"uploads/2023/6e1a3d2131.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-15T14:19:26-08:00",
+				"url": "https://indw.blog/2023/11/15/commute.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/14/tillamook.html",
+				
+				"content_html": "<p>Tillamook</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tillamook \n\n<img src=\"uploads/2023/0a7f06dfa9.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-11-14T23:45:24-08:00",
+				"url": "https://indw.blog/2023/11/14/tillamook.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/14/lost-lake-oregon.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img id=\"rss_item_630254825680300629\" src=\"https://gram.social/storage/m/_v2/628659618259172766/bf4779419-8cf74f/g1oaoHkk2aAe/PtevajUsSiOJ1ERgXzMnR86mFwqeIKpdy56JCVI9.jpg\" alt=\"\">\n\t\t\t<p style=\"padding:10px;\">Lost Lake, Oregon.</p>\n",
+				"date_published": "2023-11-14T20:07:40-08:00",
+				"url": "https://indw.blog/2023/11/14/lost-lake-oregon.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/14/lake-tahoe.html",
+				
+				"content_html": "<p>Lake Tahoe</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lake Tahoe \n\n<img src=\"uploads/2023/img-3411.jpeg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-11-14T18:29:41-08:00",
+				"url": "https://indw.blog/2023/11/14/lake-tahoe.html",
+				"tags": ["Notes","Photography"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/14/moved-back-over.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Moved back over to my Mastodon server as my primary platform from Micro.blog. Too many issues lately, and I missed the iOS clients. Still copying over most things with RSS, but the biggest downside is that I’ll have to post images directly to Micro.blog since they’ll be linked to this server if I don’t. Not sure why I do this to myself.</p>\n",
+				"date_published": "2023-11-14T12:04:08-08:00",
+				"url": "https://indw.blog/2023/11/14/moved-back-over.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/14/when-people-complain.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>When people complain about PNW winters, I send them pictures of Michigan. Grayer, colder, flat as hell, farm desert tundra, and a land use program that allows this.</p><p><img src=\"https://cdn.masto.host/indwsocial/media_attachments/files/111/409/873/419/143/084/original/d24fcb353de6b2b3.jpeg\">\n",
+				"date_published": "2023-11-14T08:40:51-08:00",
+				"url": "https://indw.blog/2023/11/14/when-people-complain.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/13/dealing-with-italian.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Dealing with Italian bureaucracy is fun. </p><p>I need a SPID (electronic credential) to order my Italian birth certificate online from my comune where I’m registered.</p><p>I need a physical card of my Codice Fiscale (Social Security Card) to get the SPID. </p><p>I snail mailed for the card 2 years ago, sent to the Italian Consulate in San Francisco, who is supposed to request it from Italy. </p><p>Consulate lost my application for Codice Fiscale.</p>\n",
+				"date_published": "2023-11-13T21:42:44-08:00",
+				"url": "https://indw.blog/2023/11/13/dealing-with-italian.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/13/191258.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Do others on Micro.blog truly get RSS updates in their timelines? I’ve subscribed to one and even though there have been new posts, I’m not getting the content. Same goes with a Tumblr blog I follow. Wondering if it’s just me.</p>\n",
+				"date_published": "2023-11-13T19:12:58-08:00",
+				"url": "https://indw.blog/2023/11/13/191258.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/13/keep-getting-this.html",
+				
+				"content_html": "<p>Keep getting this error.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Keep getting this error. \n\n<img src=\"uploads/2023/monday-13-nov-2023-191151.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-13T19:12:37-08:00",
+				"url": "https://indw.blog/2023/11/13/keep-getting-this.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/13/do-others-on.html",
+				
+				"content_html": "<p>Do others on Micro.blog truly get RSS updates in their timelines? I&rsquo;ve subscribed to one and even though there have been new posts, I&rsquo;m not getting the content. Same goes with a Tumblr blog I follow. Wondering if it&rsquo;s just me.</p>\n",
+				"content_text": "Do others on Micro.blog truly get RSS updates in their timelines? I've subscribed to one and even though there have been new posts, I'm not getting the content. Same goes with a Tumblr blog I follow. Wondering if it's just me. \n",
+				"date_published": "2023-11-13T10:01:03-08:00",
+				"url": "https://indw.blog/2023/11/13/do-others-on.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/12/at-a-friends.html",
+				
+				"content_html": "<p>At a friends’ kids’ birthday party at Chuck E. Cheese and I’m pretty sure this is how Covid started.</p>\n",
+				"content_text": "At a friends’ kids’ birthday party at Chuck E. Cheese and I’m pretty sure this is how Covid started. \n",
+				"date_published": "2023-11-12T16:11:57-08:00",
+				"url": "https://indw.blog/2023/11/12/at-a-friends.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/12/this-last-week.html",
+				
+				"content_html": "<p>This last week has been kind of hellish in a sort of funny but not too funny sort of way.</p>\n<p>We’ve all, at various overlapping times, had colds and conjunctivitis. Yep, pink eye.</p>\n<p>Thank goodness for the extra days off. Sleeping but not well, and my wife has it in both eyes 👀. Looks awful</p>\n<p>😖😳🤣</p>\n",
+				"content_text": "This last week has been kind of hellish in a sort of funny but not too funny sort of way. \n\nWe’ve all, at various overlapping times, had colds and conjunctivitis. Yep, pink eye. \n\nThank goodness for the extra days off. Sleeping but not well, and my wife has it in both eyes 👀. Looks awful\n\n😖😳🤣\n",
+				"date_published": "2023-11-12T11:13:23-08:00",
+				"url": "https://indw.blog/2023/11/12/this-last-week.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/11/12/new-air-fryer.html",
+				
+				"content_html": "<p>New air fryer owner, here. So I picked up some Starbucks Sous Vide Egg Bites from Costco to try cooking them in it. Might have a new addiction.</p>\n<p>This is about the most American post I could conjur.</p>\n",
+				"content_text": "New air fryer owner, here. So I picked up some Starbucks Sous Vide Egg Bites from Costco to try cooking them in it. Might have a new addiction. \n\nThis is about the most American post I could conjur. \n",
+				"date_published": "2023-11-12T11:01:53-08:00",
+				"url": "https://indw.blog/2023/11/12/new-air-fryer.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2023/11/11/an-excerpt-from.html",
 				
-				"content_html": "<p>An excerpt from an interview with Noam Chomsky prior to the October 7 conflict.</p>\n<blockquote>\n<p>For 50 years, Israel has been explicitly trying to use the Holocaust as a propaganda weapon to justify crushing the Palestinians, occupying Palestinian territory illegally, practically destroying Gaza [which is] almost unlivable now. A million children can&rsquo;t even get potable water. The constant atrocities in the West Bank. You read journalists like Gideon Levy, Amira Hass, others, daily reports. They think they can get away with this as long as they can wave the Holocaust in front of people&rsquo;s eyes.</p>\n</blockquote>\n<blockquote>\n<p>I should say, this is explicit. So if you go back to 1973, Abba Eban, a leading Israel statesman and highly respected, wrote a very interesting article in the more liberal Jewish journal in the United States, Congress Weekly. In this article, he said, &ldquo;The duty of American Jews is to show that any criticism of what he called Zionism, meaning the policies of his government, any criticism is either anti-semitism if it comes from non-Jews, or neurotic self-hatred if it comes from Jews. And he actually mentioned two people. I was proud to be one of them.</p>\n</blockquote>\n<p><a href=\"https://youtu.be/wYcowSYyHV0?si=7AOp4vJWLEIEQscz\">Noam Chomsky, Chris Hedges &amp; Dr. Shir Hever on Israel &amp; Palestine</a></p>\n",
-				"content_text": "An excerpt from an interview with Noam Chomsky prior to the October 7 conflict. \n\n> For 50 years, Israel has been explicitly trying to use the Holocaust as a propaganda weapon to justify crushing the Palestinians, occupying Palestinian territory illegally, practically destroying Gaza [which is] almost unlivable now. A million children can't even get potable water. The constant atrocities in the West Bank. You read journalists like Gideon Levy, Amira Hass, others, daily reports. They think they can get away with this as long as they can wave the Holocaust in front of people's eyes. \n\n> I should say, this is explicit. So if you go back to 1973, Abba Eban, a leading Israel statesman and highly respected, wrote a very interesting article in the more liberal Jewish journal in the United States, Congress Weekly. In this article, he said, \"The duty of American Jews is to show that any criticism of what he called Zionism, meaning the policies of his government, any criticism is either anti-semitism if it comes from non-Jews, or neurotic self-hatred if it comes from Jews. And he actually mentioned two people. I was proud to be one of them.\n\n[Noam Chomsky, Chris Hedges & Dr. Shir Hever on Israel & Palestine](https://youtu.be/wYcowSYyHV0?si=7AOp4vJWLEIEQscz)\n",
+				"content_html": "<p>An excerpt from an interview with Noam Chomsky prior to the October 7 conflict.</p>\n<blockquote>\n<p>For 50 years, Israel has been explicitly trying to use the Holocaust as a propaganda weapon to justify crushing the Palestinians, occupying Palestinian territory illegally, practically destroying Gaza [which is] almost unlivable now. A million children can&rsquo;t even get potable water. The constant atrocities in the West Bank. You read journalists like Gideon Levy, Amira Hass, others, daily reports. They think they can get away with this as long as they can wave the Holocaust in front of people&rsquo;s eyes.</p>\n</blockquote>\n<blockquote>\n<p>I should say, this is explicit. So if you go back to 1973, Abba Eban, a leading Israel statesman and highly respected, wrote a very interesting article in the more liberal Jewish journal in the United States, Congress Weekly. In this article, he said the duty of American Jews is to show that any criticism of what he called Zionism, meaning the policies of his government, any criticism is either anti-semitism if it comes from non-Jews, or neurotic self-hatred if it comes from Jews. And he actually mentioned two people. I was proud to be one of them.</p>\n</blockquote>\n<p><a href=\"https://youtu.be/wYcowSYyHV0?si=7AOp4vJWLEIEQscz\">Noam Chomsky, Chris Hedges &amp; Dr. Shir Hever on Israel &amp; Palestine</a></p>\n",
+				"content_text": "An excerpt from an interview with Noam Chomsky prior to the October 7 conflict. \n\n> For 50 years, Israel has been explicitly trying to use the Holocaust as a propaganda weapon to justify crushing the Palestinians, occupying Palestinian territory illegally, practically destroying Gaza [which is] almost unlivable now. A million children can't even get potable water. The constant atrocities in the West Bank. You read journalists like Gideon Levy, Amira Hass, others, daily reports. They think they can get away with this as long as they can wave the Holocaust in front of people's eyes. \n\n> I should say, this is explicit. So if you go back to 1973, Abba Eban, a leading Israel statesman and highly respected, wrote a very interesting article in the more liberal Jewish journal in the United States, Congress Weekly. In this article, he said the duty of American Jews is to show that any criticism of what he called Zionism, meaning the policies of his government, any criticism is either anti-semitism if it comes from non-Jews, or neurotic self-hatred if it comes from Jews. And he actually mentioned two people. I was proud to be one of them.\n\n[Noam Chomsky, Chris Hedges & Dr. Shir Hever on Israel & Palestine](https://youtu.be/wYcowSYyHV0?si=7AOp4vJWLEIEQscz)\n",
 				"date_published": "2023-11-11T23:43:20-08:00",
 				"url": "https://indw.blog/2023/11/11/an-excerpt-from.html",
-				"tags": ["Notes"]
+				"tags": ["Blog"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2023/11/10/people-have-tried.html",
@@ -46,7 +172,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/11/10/thinking-of-my.html",
 				
 				"content_html": "<p>Thinking of my brother on his heavenly birthday today. He would’ve been 41. Miss you.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Thinking of my brother on his heavenly birthday today. He would’ve been 41. Miss you. \n\n<img src=\"uploads/2023/6eb706380e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/60de1a0499.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/e773050125.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/dd1d4b8e41.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
+				"content_text": "Thinking of my brother on his heavenly birthday today. He would’ve been 41. Miss you. \n\n<img src=\"https://indw.blog/uploads/2023/6eb706380e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://indw.blog/uploads/2023/60de1a0499.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://indw.blog/uploads/2023/e773050125.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://indw.blog/uploads/2023/dd1d4b8e41.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
 				"date_published": "2023-11-10T08:11:56-08:00",
 				"url": "https://indw.blog/2023/11/10/thinking-of-my.html",
 				"tags": ["Notes","Photos"]
