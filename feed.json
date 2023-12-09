@@ -7,12 +7,39 @@
 	"items": [
 		
 			{
-				"id": "http://inthedeltawaves.micro.blog/2023/12/01/just-asked-my.html",
+				"id": "http://inthedeltawaves.micro.blog/2023/12/09/getting-into-the.html",
 				
-				"content_html": "<p>Just asked my wife if she wanted to go on a Friday date to target and I wish you could’ve seen the way her eyes lit up. 😂</p>\n",
-				"content_text": "Just asked my wife if she wanted to go on a Friday date to target and I wish you could’ve seen the way her eyes lit up. 😂\n",
-				"date_published": "2023-12-01T10:50:51-08:00",
-				"url": "https://indw.blog/2023/12/01/just-asked-my.html",
+				"content_html": "<p>Getting into the spirit!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Getting into the spirit! \n\n<img src=\"uploads/2023/10cc11ec60.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-12-09T11:57:36-08:00",
+				"url": "https://indw.blog/2023/12/09/getting-into-the.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/12/05/today-was-an.html",
+				
+				"content_html": "<p>Today was an interesting day. I got to tour our old jail, part of which is now empty, to hopefully repurpose it. Also made some progress on understanding the historic building in which I work, to hopefully rehab. Feeling good, but tense from the desk, so I spent some time in the hot tub and sauna:</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Today was an interesting day. I got to tour our old jail, part of which is now empty, to hopefully repurpose it. Also made some progress on understanding the historic building in which I work, to hopefully rehab. Feeling good, but tense from the desk, so I spent some time in the hot tub and sauna: \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://indw.blog/uploads/2023/333bf3dd0e.mov\" width=\"640\" height=\"1138\" poster=\"https://indw.blog/uploads/2023/56eadcc5dd.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-12-05T21:01:12-08:00",
+				"url": "https://indw.blog/2023/12/05/today-was-an.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/12/03/went-to-a.html",
+				
+				"content_html": "<p>Went to a ninja gym last night and it was a lot of fun!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Went to a ninja gym last night and it was a lot of fun! \n\n<img src=\"uploads/2023/878a3bebd6.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/4f72a110fb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/97e8176905.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-03T09:43:27-08:00",
+				"url": "https://indw.blog/2023/12/03/went-to-a.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2023/12/02/for-all-the.html",
+				
+				"content_html": "<p>For all the effort being made for alt text, how do I even read it in other people’s posts on Micro.blog?</p>\n",
+				"content_text": "For all the effort being made for alt text, how do I even read it in other people’s posts on Micro.blog? \n",
+				"date_published": "2023-12-02T09:31:05-08:00",
+				"url": "https://indw.blog/2023/12/02/for-all-the.html",
 				"tags": ["Notes"]
 			},
 			{
@@ -28,7 +55,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/11/27/that-high-noon.html",
 				
 				"content_html": "<p>That high noon sun.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That high noon sun. \n\n<img src=\"uploads/2023/cf04e1ffa3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "That high noon sun. \n\n<img src=\"https://indw.blog/uploads/2023/cf04e1ffa3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-27T12:14:43-08:00",
 				"url": "https://indw.blog/2023/11/27/that-high-noon.html",
 				"tags": ["Notes","Photos"]
@@ -37,7 +64,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/11/25/thankful-for-this.html",
 				
 				"content_html": "<p>Thankful for this day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thankful for this day. \n\n<img src=\"uploads/2023/7f01ca9cac.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Thankful for this day. \n\n<img src=\"https://indw.blog/uploads/2023/7f01ca9cac.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-25T14:02:01-08:00",
 				"url": "https://indw.blog/2023/11/25/thankful-for-this.html",
 				"tags": ["Notes","Photos"]
@@ -46,7 +73,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/11/25/beautiful-outside.html",
 				
 				"content_html": "<p>Beautiful outside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Beautiful outside. \n\n<img src=\"uploads/2023/aecd677ea1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Beautiful outside. \n\n<img src=\"https://indw.blog/uploads/2023/aecd677ea1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-25T12:37:28-08:00",
 				"url": "https://indw.blog/2023/11/25/beautiful-outside.html",
 				"tags": ["Notes","Photos"]
