@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2023/12/16/saturdays-are-the.html",
+				
+				"content_html": "<p>Saturdays are the best.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Saturdays are the best. \n\n<img src=\"uploads/2023/e6a18ea961.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"date_published": "2023-12-16T09:22:28-08:00",
+				"url": "https://indw.blog/2023/12/16/saturdays-are-the.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2023/12/11/holiday-festivities.html",
 				"title": "Holiday Festivities",
 				"content_html": "<p>We had a very busy but fun weekend with the kids celebrating the holiday season.</p>\n<p>We went and saw Santa Claus in North Plains on Saturday, and then went to Steeplejack Brewing for pizza. Then, on Sunday, we went to the SHARC for swimming and later went to Zoo Lights at the Oregon Zoo.</p>\n<!-- raw HTML omitted -->\n",
@@ -55,7 +64,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2023/11/27/that-high-noon.html",
 				
 				"content_html": "<p>That high noon sun.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That high noon sun. \n\n<img src=\"uploads/2023/cf04e1ffa3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "That high noon sun. \n\n<img src=\"https://indw.blog/uploads/2023/cf04e1ffa3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-27T12:14:43-08:00",
 				"url": "https://indw.blog/2023/11/27/that-high-noon.html",
 				"tags": ["Notes","Photos"]
