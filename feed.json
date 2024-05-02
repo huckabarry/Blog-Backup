@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2024/05/02/couldnt-sleep-last.html",
+				
+				"content_html": "<p>Couldn’t sleep last night, at all. Periodic bouts of insomnia are nothing new. So, when I know it’s a lost cause to even try, I kind of go off the rails digging into basic front end dev. Slowly making the Marfa theme my own with little tweaks. Some things I got done last night:</p>\n<ul>\n<li>Finally figured out my issue with Tinylytics and got the TinyKudos working.</li>\n<li>Modified the direction of the pagination, since it was intuitively backwards to my mind. I’m actually pretty proud that I figured this out on my own.</li>\n<li>Actually read the instructions on how to put in “reply by email” and “reply on Mastodon” when cross-posted. Locating these within the panel with for author name under individual posts, which was out of my comfort zone, and took me way too long, but it seems to have worked the way I wanted it to display.</li>\n<li>Created a prettier link to the “Conversation on Micro.blog” from individual posts.</li>\n</ul>\n<p>I failed at:</p>\n<ul>\n<li>Updating Font Awesome so that I could use the Bluesky logo. Above my head. Attempted for the first time to fork and modify a plugin, which may have been over the top but a learning experience nevertheless.</li>\n<li>Understanding if it’s possible to use a hamburger menu for navigation.</li>\n</ul>\n",
+				"content_text": "Couldn’t sleep last night, at all. Periodic bouts of insomnia are nothing new. So, when I know it’s a lost cause to even try, I kind of go off the rails digging into basic front end dev. Slowly making the Marfa theme my own with little tweaks. Some things I got done last night:\n\n- Finally figured out my issue with Tinylytics and got the TinyKudos working. \n- Modified the direction of the pagination, since it was intuitively backwards to my mind. I’m actually pretty proud that I figured this out on my own. \n- Actually read the instructions on how to put in “reply by email” and “reply on Mastodon” when cross-posted. Locating these within the panel with for author name under individual posts, which was out of my comfort zone, and took me way too long, but it seems to have worked the way I wanted it to display. \n- Created a prettier link to the “Conversation on Micro.blog” from individual posts. \n\n\nI failed at:\n\n- Updating Font Awesome so that I could use the Bluesky logo. Above my head. Attempted for the first time to fork and modify a plugin, which may have been over the top but a learning experience nevertheless. \n- Understanding if it’s possible to use a hamburger menu for navigation. \n",
+				"date_published": "2024-05-02T09:37:40-07:00",
+				"url": "https://bryans.life/2024/05/02/couldnt-sleep-last.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/05/01/without-a-doubt.html",
+				
+				"content_html": "<p>Without a doubt!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Without a doubt! \n\n<img src=\"uploads/2024/78ec0d5808.jpg\" width=\"600\" height=\"567\" alt=\"\">\n",
+				"date_published": "2024-05-01T20:38:10-07:00",
+				"url": "https://bryans.life/2024/05/01/without-a-doubt.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/05/01/i-hope-we.html",
+				
+				"content_html": "<p>I hope we get high-speed rail in the Northwest before I die.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://www.forbes.com/sites/katharinabuchholz/2024/04/29/the-state-of-high-speed-rail-projects-in-the-us-infographic/?sh=57d9a13ea986\"><em>The State Of High-Speed Rail Projects In The U.S.</em></a></p>\n",
+				"content_text": "I hope we get high-speed rail in the Northwest before I die. \n\n<img src=\"uploads/2024/408f2be3a4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n[*The State Of High-Speed Rail Projects In The U.S.*](https://www.forbes.com/sites/katharinabuchholz/2024/04/29/the-state-of-high-speed-rail-projects-in-the-us-infographic/?sh=57d9a13ea986)\n",
+				"date_published": "2024-05-01T19:06:56-07:00",
+				"url": "https://bryans.life/2024/05/01/i-hope-we.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/04/29/looking-for-accommodations.html",
+				
+				"content_html": "<p>Looking for accommodations for our trip to Italy. Although grateful for tools like Google Maps and online reviews, in some ways they almost make it more difficult for me to choose a hotel. Beyond analysis paralysis, guest photos really pull back the curtain on the reality vs the hotel’s photos.</p>\n",
+				"content_text": "Looking for accommodations for our trip to Italy. Although grateful for tools like Google Maps and online reviews, in some ways they almost make it more difficult for me to choose a hotel. Beyond analysis paralysis, guest photos really pull back the curtain on the reality vs the hotel’s photos. \n",
+				"date_published": "2024-04-29T14:02:09-07:00",
+				"url": "https://bryans.life/2024/04/29/looking-for-accommodations.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/04/28/finally-got-in.html",
+				
+				"content_html": "<p>Finally got in to see an ophthalmologist last week for a small concretion I had on my eyelid. It took me a year to get in to see one. I went into primary care last April, then a few months wait to see dermatology, then to optometry (who doesn’t deal with anything but vision), back to primary care, and then another 3 month wait to get to last week’s 10 minute appointment with ophthalmology.</p>\n<p>Tell me again how we have the best healthcare system in the world.</p>\n",
+				"content_text": "Finally got in to see an ophthalmologist last week for a small concretion I had on my eyelid. It took me a year to get in to see one. I went into primary care last April, then a few months wait to see dermatology, then to optometry (who doesn’t deal with anything but vision), back to primary care, and then another 3 month wait to get to last week’s 10 minute appointment with ophthalmology. \n\nTell me again how we have the best healthcare system in the world.\n",
+				"date_published": "2024-04-28T10:01:34-07:00",
+				"url": "https://bryans.life/2024/04/28/finally-got-in.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/04/28/who-else-here.html",
+				
+				"content_html": "<p>Who else here is from a small, out-of-the-way place with few opportunities but still managed to get out and make something of yourself despite the odds?</p>\n<p>Sometimes I stop and think about it and feel so lucky.</p>\n",
+				"content_text": "Who else here is from a small, out-of-the-way place with few opportunities but still managed to get out and make something of yourself despite the odds? \n\nSometimes I stop and think about it and feel so lucky. \n",
+				"date_published": "2024-04-28T08:46:40-07:00",
+				"url": "https://bryans.life/2024/04/28/who-else-here.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/04/27/my-annual-subscription.html",
+				
+				"content_html": "<p>My annual subscription for Ivory is coming up. I don’t think I’m going to renew. I’m mostly on Micro.blog and Bluesky these days, and Ice Cubes seems to have Mastodon covered. That year went by quick, though.</p>\n",
+				"content_text": "My annual subscription for Ivory is coming up. I don’t think I’m going to renew. I’m mostly on Micro.blog and Bluesky these days, and Ice Cubes seems to have Mastodon covered. That year went by quick, though. \n",
+				"date_published": "2024-04-27T20:21:49-07:00",
+				"url": "https://bryans.life/2024/04/27/my-annual-subscription.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2024/04/27/received-word-yesterday.html",
 				
 				"content_html": "<p>Received word yesterday that I got approval for nearly $70k in grant funds to install 12 EV charging stations at my work.</p>\n",
@@ -19,7 +82,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2024/04/26/one-very-simple.html",
 				
 				"content_html": "<p>One very simple but thoughtful thing about the new car is that the center backrest folds down. As a parent of two young kids in car seats, this is very convenient! Can’t even tell you how many times I’ve had to take out a car seat just to make a run to the hardware store for some moulding or lumber.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One very simple but thoughtful thing about the new car is that the center backrest folds down. As a parent of two young kids in car seats, this is very convenient! Can’t even tell you how many times I’ve had to take out a car seat just to make a run to the hardware store for some moulding or lumber.\n\n<img src=\"uploads/2024/d106342719.jpg\" width=\"450\" height=\"600\" alt=\"Inside cabin of a Model Y as viewed from the hatchback. \">\n",
+				"content_text": "One very simple but thoughtful thing about the new car is that the center backrest folds down. As a parent of two young kids in car seats, this is very convenient! Can’t even tell you how many times I’ve had to take out a car seat just to make a run to the hardware store for some moulding or lumber.\n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/d106342719.jpg\" width=\"450\" height=\"600\" alt=\"Inside cabin of a Model Y as viewed from the hatchback. \">\n",
 				"date_published": "2024-04-26T10:25:32-07:00",
 				"url": "https://bryans.life/2024/04/26/one-very-simple.html",
 				"tags": ["Notes","Photos"]
@@ -28,7 +91,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2024/04/25/i-was-cleaning.html",
 				
 				"content_html": "<p>I was cleaning out some old files and came across the software that came with my 2009 MBP. I still have the machine, too.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was cleaning out some old files and came across the software that came with my 2009 MBP. I still have the machine, too. \n\n<img src=\"uploads/2024/110aa7b32a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I was cleaning out some old files and came across the software that came with my 2009 MBP. I still have the machine, too. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/110aa7b32a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-25T10:03:19-07:00",
 				"url": "https://bryans.life/2024/04/25/i-was-cleaning.html",
 				"tags": ["Notes","Photos"]
@@ -36,8 +99,8 @@
 			{
 				"id": "http://inthedeltawaves.micro.blog/2024/04/24/well-it-happened.html",
 				
-				"content_html": "<p>Well, it happened. After driving the same beat up old Subaru for 11 years, I got my very first new car at 43 years old. I bought a Tesla Model Y Long Range on Earth Day. I think my son might be more excited than I am.</p>\n<p><img src=\"https://bryans.life/uploads/2024/65033d00-f1d8-4f2f-95a5-be1e9f9deb62.jpg\" alt=\"\"></p>\n<p><img src=\"https://bryans.life/uploads/2024/f34e7388-906c-4b54-934f-1e74f00c9701.jpg\" alt=\"\"></p>\n<p><img src=\"https://bryans.life/uploads/2024/c703a3ed-cf39-4a49-8bf6-104ac366611f.jpg\" alt=\"\">\nWent for a drive in the countryside during my lunch break today.\n<img src=\"https://bryans.life/uploads/2024/6b52f356-2c72-4b9c-9c3e-4188803d4719.jpg\" alt=\"\"></p>\n<p><img src=\"https://bryans.life/uploads/2024/5a036164-edf1-45f4-aa0a-59278462ab97.jpg\" alt=\"\"></p>\n",
-				"content_text": "Well, it happened. After driving the same beat up old Subaru for 11 years, I got my very first new car at 43 years old. I bought a Tesla Model Y Long Range on Earth Day. I think my son might be more excited than I am.\n\n![](https://bryans.life/uploads/2024/65033d00-f1d8-4f2f-95a5-be1e9f9deb62.jpg)\n\n![](https://bryans.life/uploads/2024/f34e7388-906c-4b54-934f-1e74f00c9701.jpg)\n\n![](https://bryans.life/uploads/2024/c703a3ed-cf39-4a49-8bf6-104ac366611f.jpg)\nWent for a drive in the countryside during my lunch break today. \n![](https://bryans.life/uploads/2024/6b52f356-2c72-4b9c-9c3e-4188803d4719.jpg)\n\n![](https://bryans.life/uploads/2024/5a036164-edf1-45f4-aa0a-59278462ab97.jpg)\n",
+				"content_html": "<p>Well, it happened. After driving the same beat up old Subaru for 11 years, I got my very first new car at 43 years old. I bought a Tesla Model Y Long Range on Earth Day. I think my son might be more excited than I am.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/92110/2024/65033d00-f1d8-4f2f-95a5-be1e9f9deb62.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/92110/2024/f34e7388-906c-4b54-934f-1e74f00c9701.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/92110/2024/c703a3ed-cf39-4a49-8bf6-104ac366611f.jpg\" alt=\"\">\nWent for a drive in the countryside during my lunch break today.\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/6b52f356-2c72-4b9c-9c3e-4188803d4719.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/92110/2024/5a036164-edf1-45f4-aa0a-59278462ab97.jpg\" alt=\"\"></p>\n",
+				"content_text": "Well, it happened. After driving the same beat up old Subaru for 11 years, I got my very first new car at 43 years old. I bought a Tesla Model Y Long Range on Earth Day. I think my son might be more excited than I am.\n\n![](https://cdn.uploads.micro.blog/92110/2024/65033d00-f1d8-4f2f-95a5-be1e9f9deb62.jpg)\n\n![](https://cdn.uploads.micro.blog/92110/2024/f34e7388-906c-4b54-934f-1e74f00c9701.jpg)\n\n![](https://cdn.uploads.micro.blog/92110/2024/c703a3ed-cf39-4a49-8bf6-104ac366611f.jpg)\nWent for a drive in the countryside during my lunch break today. \n![](https://cdn.uploads.micro.blog/92110/2024/6b52f356-2c72-4b9c-9c3e-4188803d4719.jpg)\n\n![](https://cdn.uploads.micro.blog/92110/2024/5a036164-edf1-45f4-aa0a-59278462ab97.jpg)\n",
 				"date_published": "2024-04-24T19:37:52-07:00",
 				"url": "https://bryans.life/2024/04/24/well-it-happened.html",
 				"tags": ["Notes","Photos"]
@@ -70,15 +133,6 @@
 				"tags": ["Notes","Photos"]
 			},
 			{
-				"id": "http://inthedeltawaves.micro.blog/2024/04/21/182829.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/fc47ceb121.png\" width=\"296\" height=\"600\" alt=\"American made index ranking showing the top 4 all being Teslas: Model Y, Model 3, Model X, Model S. \">\n",
-				"date_published": "2024-04-21T18:28:29-07:00",
-				"url": "https://bryans.life/2024/04/21/182829.html",
-				"tags": ["Notes"]
-			},
-			{
 				"id": "http://inthedeltawaves.micro.blog/2024/04/20/kids-are-watching.html",
 				
 				"content_html": "<p>Kids are watching Scooby-Doo and I’m over here playing the first game video game I ever owned, at age 6.</p>\n<!-- raw HTML omitted -->\n",
@@ -99,8 +153,8 @@
 			{
 				"id": "http://inthedeltawaves.micro.blog/2024/04/20/aforementioned-rei-grand.html",
 				
-				"content_html": "<p>Aforementioned REI grand opening. It’s crazy over here.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Aforementioned REI grand opening. It’s crazy over here. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/0d013ef5c8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/92110/2024/d506e59735.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Aforementioned REI grand opening. It’s crazy over here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Aforementioned REI grand opening. It’s crazy over here. \n\n<img src=\"uploads/2024/0d013ef5c8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n<img src=\"uploads/2024/d506e59735.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-20T13:24:50-07:00",
 				"url": "https://bryans.life/2024/04/20/aforementioned-rei-grand.html",
 				"tags": ["Notes","Photos"]
@@ -8033,15 +8087,6 @@
 				"date_published": "2023-01-12T19:32:31-07:00",
 				"url": "https://bryans.life/2023/01/12/just-made-the.html",
 				"tags": ["Notes"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2023/01/12/our-meal-delivery.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Our meal delivery service just sent us Hamburger Helper and billed it as French Onion Beef.</p><p><img src=\"https://files.mastodon.social/media_attachments/files/109/678/915/461/746/551/original/3e5280ce5028b52d.png\">\n",
-				"date_published": "2023-01-12T16:52:10-07:00",
-				"url": "https://bryans.life/2023/01/12/our-meal-delivery.html",
-				"tags": ["Photos"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2023/01/12/can-any-galaxyandroid.html",
