@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2024/08/15/down-lbs-since.html",
+				
+				"content_html": "<p>Down 10 lbs since starting CICO. Only about 50 more to go. 😭</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Down 10 lbs since starting CICO. Only about 50 more to go. 😭\n\n<img src=\"uploads/2024/388b99dc05.jpg\" width=\"600\" height=\"472\" alt=\"A purple line graph shows a descending trend on a black background, with values ranging from 250 to 240.\">\n",
+				"date_published": "2024-08-15T09:31:27-07:00",
+				"url": "https://bryans.life/2024/08/15/down-lbs-since.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/08/15/nothing-like-camping.html",
+				
+				"content_html": "<p>Nothing like camping at the Oregon Coast in mid-August.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nothing like camping at the Oregon Coast in mid-August. \n\n<img src=\"uploads/2024/ce998a38f1.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-15T08:24:23-07:00",
+				"url": "https://bryans.life/2024/08/15/nothing-like-camping.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/08/12/what-good-are.html",
+				
+				"content_html": "<p>What good are iOS widgets and WatchOS complications if they never update until you open them? It would be funny if it wasn’t so aggravating.</p>\n",
+				"content_text": "What good are iOS widgets and WatchOS complications if they never update until you open them? It would be funny if it wasn’t so aggravating. \n",
+				"date_published": "2024-08-12T18:04:28-07:00",
+				"url": "https://bryans.life/2024/08/12/what-good-are.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/08/12/this-is-just.html",
+				
+				"content_html": "<p>This is just me getting old, but I feel very uncomfortable/borderline offended with the Gen Z boys adopting this mustache/mullet/pit viper aesthetic. Gives me abusive alcoholic vibes. I guess that means they’ve probably accomplished their goal.</p>\n",
+				"content_text": "This is just me getting old, but I feel very uncomfortable/borderline offended with the Gen Z boys adopting this mustache/mullet/pit viper aesthetic. Gives me abusive alcoholic vibes. I guess that means they’ve probably accomplished their goal. \n",
+				"date_published": "2024-08-12T12:40:38-07:00",
+				"url": "https://bryans.life/2024/08/12/this-is-just.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/08/12/mph-really-is.html",
+				
+				"content_html": "<p>25 mph really is too fast for most neighborhood streets. 15 mph should be the rule.</p>\n",
+				"content_text": "25 mph really is too fast for most neighborhood streets. 15 mph should be the rule. \n",
+				"date_published": "2024-08-12T11:06:48-07:00",
+				"url": "https://bryans.life/2024/08/12/mph-really-is.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/08/11/my-wife-competed.html",
+				
+				"content_html": "<p>My wife competed in a duathlon on her birthday today and got third place in her age group. Proud of her.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My wife competed in a duathlon on her birthday today and got third place in her age group. Proud of her. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/a6eae7978d.jpg\" width=\"451\" height=\"600\" alt=\"Three women wearing medals and athletic attire stand on a podium with numbered steps, celebrating a sporting event victory in front of a colorful backdrop.\">\n",
+				"date_published": "2024-08-11T16:58:56-07:00",
+				"url": "https://bryans.life/2024/08/11/my-wife-competed.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2024/08/10/lose-it-app.html",
 				
 				"content_html": "<p>Lose It! app makes me laugh with its “positive pattern detected” notifications. Yes, I like potatoes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lose It! app makes me laugh with its “positive pattern detected” notifications. Yes, I like potatoes. \n\n<img src=\"uploads/2024/a7bbca01e0.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"content_text": "Lose It! app makes me laugh with its “positive pattern detected” notifications. Yes, I like potatoes. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/a7bbca01e0.png\" width=\"296\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-10T12:16:14-07:00",
 				"url": "https://bryans.life/2024/08/10/lose-it-app.html",
 				"tags": ["Notes","Photos"]
@@ -46,7 +100,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2024/08/08/calories-a-mcdonalds.html",
 				
 				"content_html": "<p>536 calories. A McDonald’s double cheeseburger has 100 fewer calories.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "536 calories. A McDonald’s double cheeseburger has 100 fewer calories. \n\n<img src=\"uploads/2024/20ad103154.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "536 calories. A McDonald’s double cheeseburger has 100 fewer calories. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/20ad103154.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T17:53:57-07:00",
 				"url": "https://bryans.life/2024/08/08/calories-a-mcdonalds.html",
 				"tags": ["Notes","Photos"]
@@ -454,15 +508,6 @@
 				"content_text": "<p>I missed you, Lake Michigan.</p><p><img src=\"https://cdn.masto.host/urbanistssocial/media_attachments/files/112/838/762/595/694/345/original/3ed725845da341fb.jpg\">\n",
 				"date_published": "2024-07-23T18:01:17-07:00",
 				"url": "https://bryans.life/2024/07/23/180117.html",
-				"tags": ["Notes","Photos"]
-			},
-			{
-				"id": "http://inthedeltawaves.micro.blog/2024/07/23/i-missed-you.html",
-				
-				"content_html": "<p>I missed you, Lake Michigan.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I missed you, Lake Michigan. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/c065da20c5.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"date_published": "2024-07-23T18:01:02-07:00",
-				"url": "https://bryans.life/2024/07/23/i-missed-you.html",
 				"tags": ["Notes","Photos"]
 			},
 			{
