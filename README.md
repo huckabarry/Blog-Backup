@@ -1,2 +1,2 @@
 # blog
-Personal Blog
+This is a backup of my personal blog.
