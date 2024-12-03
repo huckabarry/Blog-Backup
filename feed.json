@@ -7,6 +7,150 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/03/i-took-my.html",
+				
+				"content_html": "<p>I took my lunch, as I sometimes do, on Unger Road, looking east toward Mount Hood. The east wind is keeping the northern Willamette clear and cold. Morning wrapped us in freezing fog, with frost still clinging to the shadows behind hills and beneath trees, wherever the sun can’t reach.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I took my lunch, as I sometimes do, on Unger Road, looking east toward Mount Hood. The east wind is keeping the northern Willamette clear and cold. Morning wrapped us in freezing fog, with frost still clinging to the shadows behind hills and beneath trees, wherever the sun can’t reach. \n\n<img src=\"uploads/2024/0ae98a799b.jpg\" width=\"400\" height=\"600\" alt=\"A rural landscape features a winding road next to a fencing line, with distant mountains visible under a clear blue sky.\">\n",
+				"date_published": "2024-12-03T13:55:18-08:00",
+				"url": "https://bryans.life/2024/12/03/i-took-my.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/03/actually-took-my.html",
+				
+				"content_html": "<p>Actually took my meds today and spent some time this morning filling out my calendar for the month ahead. A tiny bit of relief for my ADHD brain having the chaos written down somewhere. I’ll still mess something up, but at least it won’t feel like the tail wagging the dog from now until New Year’s.</p>\n",
+				"content_text": "Actually took my meds today and spent some time this morning filling out my calendar for the month ahead. A tiny bit of relief for my ADHD brain having the chaos written down somewhere. I’ll still mess something up, but at least it won’t feel like the tail wagging the dog from now until New Year’s. \n",
+				"date_published": "2024-12-03T11:28:39-08:00",
+				"url": "https://bryans.life/2024/12/03/actually-took-my.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/03/zoo-lights.html",
+				
+				"content_html": "<p>Zoo Lights.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Zoo Lights. \n\n<img src=\"uploads/2024/c11af1a493.jpg\" width=\"400\" height=\"600\" alt=\"A child in a blue jacket and beanie stands in front of an elephant structure adorned with glowing lights at night.\">\n",
+				"date_published": "2024-12-03T00:02:16-08:00",
+				"url": "https://bryans.life/2024/12/03/zoo-lights.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/02/warming-up-inside.html",
+				
+				"content_html": "<p>Warming up inside the Nature Exploration Station during Zoo Lights yesterday at the Oregon Zoo.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Warming up inside the Nature Exploration Station during Zoo Lights yesterday at the Oregon Zoo. \n\n<img src=\"uploads/2024/ea233d2774.jpg\" width=\"600\" height=\"400\" alt=\"A child is crawling and laughing inside a hollow log.\">\n",
+				"date_published": "2024-12-02T23:56:55-08:00",
+				"url": "https://bryans.life/2024/12/02/warming-up-inside.html",
+				"tags": ["Notes","Photography"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/02/im-getting-excited.html",
+				
+				"content_html": "<p>I’m getting excited about Ghost’s implementation of ActivityPub. I have used it to micro blog, but it doesn’t work well out of the box, so I had to create a highly customized theme. But it now looks like they’re <a href=\"https://activitypub.ghost.org/inboxes-feeds-articles-notes/?ref=build-log-newsletter\">working on</a> short form posts and separate feeds for long vs short posts.</p>\n",
+				"content_text": "I’m getting excited about Ghost’s implementation of ActivityPub. I have used it to micro blog, but it doesn’t work well out of the box, so I had to create a highly customized theme. But it now looks like they’re [working on](https://activitypub.ghost.org/inboxes-feeds-articles-notes/?ref=build-log-newsletter) short form posts and separate feeds for long vs short posts. \n",
+				"date_published": "2024-12-02T10:31:34-08:00",
+				"url": "https://bryans.life/2024/12/02/im-getting-excited.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/02/currently-reading-adult.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781626251724\">Adult Children of Emotionally Immature Parents</a> by Lindsay C. Gibson 📚</p>\n",
+				"content_text": "Currently reading: [Adult Children of Emotionally Immature Parents](https://micro.blog/books/9781626251724) by Lindsay C. Gibson 📚\n",
+				"date_published": "2024-12-02T09:46:31-08:00",
+				"url": "https://bryans.life/2024/12/02/currently-reading-adult.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/02/i-wonder-how.html",
+				
+				"content_html": "<p>I wonder how often dogs are just like “I wish these people would quiet down already.” And then anytime they bark we’re shushing them. We don’t deserve them.</p>\n",
+				"content_text": "I wonder how often dogs are just like “I wish these people would quiet down already.” And then anytime they bark we’re shushing them. We don’t deserve them. \n",
+				"date_published": "2024-12-02T08:50:35-08:00",
+				"url": "https://bryans.life/2024/12/02/i-wonder-how.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/01/analyzing-the-american.html",
+				
+				"content_html": "<p>Analyzing the American Dream as an American living in Germany. From <a href=\"https://www.instagram.com/reel/DC7y4XooXr6/?igsh=Y3owamZvbGl3emNz\">usa.mom.in.germany</a>. 🇩🇪</p>\n",
+				"content_text": "Analyzing the American Dream as an American living in Germany. From [usa.mom.in.germany](https://www.instagram.com/reel/DC7y4XooXr6/?igsh=Y3owamZvbGl3emNz). 🇩🇪 \n",
+				"date_published": "2024-12-01T20:13:54-08:00",
+				"url": "https://bryans.life/2024/12/01/analyzing-the-american.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/01/meanwhile-ft-of.html",
+				
+				"content_html": "<p>Meanwhile, 100 ft of Christmas lights barely scratches the surface when it comes to decking the halls with holiday cheer. Gonna need to make another HD run.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Meanwhile, 100 ft of Christmas lights barely scratches the surface when it comes to decking the halls with holiday cheer. Gonna need to make another HD run. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/25475731b3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-01T15:27:52-08:00",
+				"url": "https://bryans.life/2024/12/01/meanwhile-ft-of.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/01/currently-reading-love.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593310854\">Love in the Time of Cholera (Illustrated Edition)</a> by Gabriel García Márquez 📚</p>\n",
+				"content_text": "Currently reading: [Love in the Time of Cholera (Illustrated Edition)](https://micro.blog/books/9780593310854) by Gabriel García Márquez 📚\n",
+				"date_published": "2024-12-01T13:43:55-08:00",
+				"url": "https://bryans.life/2024/12/01/currently-reading-love.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/01/i-wonder-what.html",
+				
+				"content_html": "<p>I wonder what kind of clientele they’re going for with that agency name.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I wonder what kind of clientele they’re going for with that agency name. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/eaa9d81251.jpg\" width=\"450\" height=\"600\" alt=\"A real estate sign for an open house is placed on a sidewalk in a suburban neighborhood with an agency name of “OnlyHomes”. \">\n",
+				"date_published": "2024-12-01T13:09:30-08:00",
+				"url": "https://bryans.life/2024/12/01/i-wonder-what.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/01/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780063290648\">The Unbearable Lightness of Being</a> by Milan Kundera 📚</p>\n",
+				"content_text": "Finished reading: [The Unbearable Lightness of Being](https://micro.blog/books/9780063290648) by Milan Kundera 📚\n",
+				"date_published": "2024-12-01T12:37:25-08:00",
+				"url": "https://bryans.life/2024/12/01/finished-reading-the.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/01/woke-up-to.html",
+				
+				"content_html": "<p>Woke up to 30° in PDX and lots of frost. I’m a wimp in the cold these days. 🥶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Woke up to 30° in PDX and lots of frost. I’m a wimp in the cold these days. 🥶 \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/9a7176ab98.jpg\" width=\"600\" height=\"450\" alt=\"A digital display shows the time as 9:13 am, the temperature at 30°F, and an air quality index of 51, with a map in the background.\">\n",
+				"date_published": "2024-12-01T09:15:57-08:00",
+				"url": "https://bryans.life/2024/12/01/woke-up-to.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/11/30/what-happens-if.html",
+				
+				"content_html": "<p>What happens if we cut Alaska in half? Texas becomes the third largest state.</p>\n",
+				"content_text": "What happens if we cut Alaska in half? Texas becomes the third largest state. \n",
+				"date_published": "2024-11-30T15:22:20-08:00",
+				"url": "https://bryans.life/2024/11/30/what-happens-if.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/11/28/rereading-jane-jacobs.html",
+				
+				"content_html": "<p>Rereading Jane Jacobs: Reflections on “The Death and Life of Great American Cities” <a href=\"https://lowvelocity.org/rereading-jane-jacobs-reflections-on-the-death-and-life-of-great-american-cities/\">https://lowvelocity.org</a></p>\n",
+				"content_text": "Rereading Jane Jacobs: Reflections on “The Death and Life of Great American Cities” [https://lowvelocity.org](https://lowvelocity.org/rereading-jane-jacobs-reflections-on-the-death-and-life-of-great-american-cities/)\n",
+				"date_published": "2024-11-28T23:23:57-08:00",
+				"url": "https://bryans.life/2024/11/28/rereading-jane-jacobs.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/11/28/theres-always-those.html",
+				
+				"content_html": "<p>There’s always those people who email you something right before the weekend or heading into a holiday with a message that sits with you the whole time, stressing you out when you’re supposed to be relaxing. To hell with those people.</p>\n",
+				"content_text": "There’s always those people who email you something right before the weekend or heading into a holiday with a message that sits with you the whole time, stressing you out when you’re supposed to be relaxing. To hell with those people. \n",
+				"date_published": "2024-11-28T19:44:10-08:00",
+				"url": "https://bryans.life/2024/11/28/theres-always-those.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2024/11/28/lions-win-but.html",
 				
 				"content_html": "<p>Lions win ! But not without stressing me TF out! 🏈</p>\n",
