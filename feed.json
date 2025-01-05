@@ -1,34 +1,160 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Life of Bryan",
+	"title": "Bryan Robb",
 	"icon": "https://micro.blog/bryan/avatar.jpg",
 	"home_page_url": "https://bryans.life/",
 	"feed_url": "https://bryans.life/feed.json",
 	"items": [
 		
 			{
-				"id": "http://inthedeltawaves.micro.blog/2024/12/30/convinced-whoever-is-resigning-mens.html",
+				"id": "http://inthedeltawaves.micro.blog/2025/01/04/234434.html",
 				
-				"content_html": "<p>Convinced whoever is resigning men’s swim trunks, particularly the internal mesh, have no understanding of male anatomy.</p>\n",
-				"content_text": "Convinced whoever is resigning men’s swim trunks, particularly the internal mesh, have no understanding of male anatomy. \n",
-				"date_published": "2024-12-30T16:01:02-08:00",
-				"url": "https://bryans.life/2024/12/30/convinced-whoever-is-resigning-mens.html",
+				"content_html": "<p>4/365 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "4/365 📷 \n\n<img src=\"uploads/2025/7c987789ed.jpg\" width=\"400\" height=\"600\" alt=\"A woman is holding a sleeping child in a cozy setting with soft lighting.\">\n",
+				"date_published": "2025-01-04T23:44:34-08:00",
+				"url": "https://bryans.life/2025/01/04/234434.html",
+				"tags": ["Notes","Photography"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/04/ikea-send-backup.html",
+				
+				"content_html": "<p>IKEA. Send backup.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "IKEA. Send backup. \n\n<img src=\"uploads/2025/b53f703e24.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2025-01-04T11:19:50-08:00",
+				"url": "https://bryans.life/2025/01/04/ikea-send-backup.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/04/from-i-worked-for-the.html",
+				
+				"content_html": "<p>From 2007-2015, I worked for the agency that orchestrated the rehab of the Book Cadillac, and I managed the urban revitalization grant programs that invested in the major parks and public spaces in and around downtown Detroit. I love seeing the comeback and miss being there.</p>\n<p><a href=\"https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization\">The Guardian</a></p>\n",
+				"content_text": "From 2007-2015, I worked for the agency that orchestrated the rehab of the Book Cadillac, and I managed the urban revitalization grant programs that invested in the major parks and public spaces in and around downtown Detroit. I love seeing the comeback and miss being there. \n\n[The Guardian](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)\n",
+				"date_published": "2025-01-04T09:22:03-08:00",
+				"url": "https://bryans.life/2025/01/04/from-i-worked-for-the.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/03/173444.html",
+				
+				"content_html": "<p>3/365 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "3/365 📷 \n\n<img src=\"uploads/2025/6e1db2e99f.jpg\" width=\"400\" height=\"600\" alt=\"Dark, towering silhouettes of trees stand against a moody, cloud-filled sky at dusk.\">\n",
+				"date_published": "2025-01-03T17:34:44-08:00",
+				"url": "https://bryans.life/2025/01/03/173444.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/03/made-some-ui-tweaks-to.html",
+				
+				"content_html": "<p>Made some UI tweaks to my blog yesterday and have been considering adding a “Now” page. What makes a good one? Have an example to share?</p>\n",
+				"content_text": "Made some UI tweaks to my blog yesterday and have been considering adding a “Now” page. What makes a good one? Have an example to share? \n",
+				"date_published": "2025-01-03T12:46:49-08:00",
+				"url": "https://bryans.life/2025/01/03/made-some-ui-tweaks-to.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/02/172202.html",
+				
+				"content_html": "<p>2/365 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "2/365 📷 \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/dscf2855.jpeg\" width=\"600\" height=\"900\" alt=\" A narrow path winds through a lush, green forest with tall trees.\">\n",
+				"date_published": "2025-01-02T17:22:02-08:00",
+				"url": "https://bryans.life/2025/01/02/172202.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/01/had-to-replace-the-volume.html",
+				
+				"content_html": "<p>Had to replace the volume pot on my Jazzmaster. Took me way too long to finally get this done.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had to replace the volume pot on my Jazzmaster. Took me way too long to finally get this done. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/ac98d70217.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-01-01T20:59:02-08:00",
+				"url": "https://bryans.life/2025/01/01/had-to-replace-the-volume.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/01/i-hope-to-take-one.html",
+				
+				"content_html": "<p>1/365 📷</p>\n<!-- raw HTML omitted -->\n<p>I hope to take one photo every day in 2025 and post it to a collection on my <a href=\"https://bryans.life/365/\">blog</a>. While I tend to think about new beginnings this time of year, seeing this stump today somehow seemed fitting. How many rings do we have left?</p>\n",
+				"content_text": "1/365 📷 \r\n\r\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/6362f4661b.jpg\" width=\"600\" height=\"399\" alt=\"A cross-section of a tree trunk shows growth rings and rough bark edges.\">\r\n\r\nI hope to take one photo every day in 2025 and post it to a collection on my [blog](https://bryans.life/365/). While I tend to think about new beginnings this time of year, seeing this stump today somehow seemed fitting. How many rings do we have left? \n",
+				"date_published": "2025-01-01T16:58:28-08:00",
+				"url": "https://bryans.life/2025/01/01/i-hope-to-take-one.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/01/took-our-kids-to-see.html",
+				
+				"content_html": "<p>Took our kids to see Moana 2, my daughter’s first movie in theaters. For all of us, it was $90.52 for four matinee tickets, two bags of popcorn, and a Diet Pepsi.</p>\n",
+				"content_text": "Took our kids to see Moana 2, my daughter’s first movie in theaters. For all of us, it was $90.52 for four matinee tickets, two bags of popcorn, and a Diet Pepsi. \n",
+				"date_published": "2025-01-01T15:32:27-08:00",
+				"url": "https://bryans.life/2025/01/01/took-our-kids-to-see.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/01/real-talkkeeping-kids-entertained-when.html",
+				
+				"content_html": "<p>Real talk…keeping kids entertained when they’re not in school or daycare for weeks is messy AF, especially in a small house.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Real talk…keeping kids entertained when they’re not in school or daycare for weeks is messy AF, especially in a small house. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/1a22484503.jpg\" width=\"450\" height=\"600\" alt=\"A table is covered with various art supplies, including drawings, colored paper, LEGO pieces, and a box labeled &quot;Dazzling Foil Art.&quot;\">\n",
+				"date_published": "2025-01-01T13:09:47-08:00",
+				"url": "https://bryans.life/2025/01/01/real-talkkeeping-kids-entertained-when.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/01/01/my-goals-for.html",
+				"title": "My Goals for 2025",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<ol>\n    <li>\n        Declutter my home. I've never been very good at this, but it's proven to be so much more difficult with two young kids. Still, I know I can do a better job and keep a cleaner house in the process. To start, I might do a <a href=\"https://www.theminimalists.com/packing/\">packing party</a>.\n    </li>\n    <li>\n        Consistency in planning ahead for weekends away and other trips. ADHD makes this hard, but I’m always happiest when I have a well-conceived plan to execute. So many times I feel like I'm being led around by plans that are made for me, or feeling bummed out that a weekend was wasted due to poor planning. While rest is important, my goal this week is to look ahead six months and start marking down weekends for both family and personal getaways and then prepare a list of possibilities to discuss with my wife.\n    </li>\n    <li>\n        I've started to be more intentional about making friends instead of complaining that meeting people is hard. A couple months back, I began going to a meetup group for writers. I put my fears and imposter syndrome aside and said \"fuck it\". I've really been enjoying it, and I plan to do more of this sort of thing in the year ahead.\n    </li>\n    <li>\n        Continue to work on my mental health. I don't want to get into too much of this here, but I've been taking my mental health very seriously and making positive changes to support my growth, including reducing anxiety, improving my focus, setting healthy boundaries with people, thinking positive thoughts about myself, working on my emotional dysregulation and rejection sensitivity. In addition to continuing therapy, I plan to look into microdosing psychedelics and ketamine therapy, under supervision.\n    </li>\n    <li>\n        Consuming music more intentionally. For too long, I’ve let the algorithm guide my consumption, and that’s what it feels like as opposed to enjoyment. On Wednesday nights (or midweek), I’m going to make it a habit to find a new artist or album to listen to while folding laundry. This will hopefully help me do better at folding and putting away my clean laundry, which again, my ADHD makes seem like an almost insurmountable task at times.\n    </li>\n    <li>\n        Improve my photography. I’ve been inspired by others who post a photo every day, and I would like to try that this year. I got some new camera gear this year and I’ve learned a lot. I’d like to bring this to the next level.\n    </li>\n    <li>\n        Read more books. After grad school, I got out of the habit of reading consistently. It felt like a chore. This year I almost made my goal of 12 books, and even though I didn’t succeed in meeting the goal, I successfully started building it as a habit. My goal this year is 21 books, or roughly one every two weeks, with a little wiggle room for grace.\n    </li>\n    <li>\n        Put my phone down more when I default to doom scrolling because of exhaustion. No explanation needed.\n    </li>\n    <li>\n        Part two of the previous goal is to be more present with my kids. Again, no explanation needed.\n    </li>\n    <li>\n        Make more time for myself in healthier ways than retreating. Whether through physical activity, weekends away, community college classes, or just an hour at a coffee shop to write or read, my goal is to improve the ways in which I choose to relax, recreate, and/or create.\n    </li>\n</ol>\n",
+				"date_published": "2025-01-01T10:33:24-08:00",
+				"url": "https://bryans.life/2025/01/01/my-goals-for.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/31/ive-been-at-an-indoor.html",
+				
+				"content_html": "<p>I’ve been at an indoor play place with my kids for going on 3 hours. They’ve been going hard, too. Hoping these maniacs fall asleep at a decent hour tonight and sleep in a little tomorrow. I still have my doubts. 😅</p>\n",
+				"content_text": "I’ve been at an indoor play place with my kids for going on 3 hours. They’ve been going hard, too. Hoping these maniacs fall asleep at a decent hour tonight and sleep in a little tomorrow. I still have my doubts. 😅\n",
+				"date_published": "2024-12-31T15:45:58-08:00",
+				"url": "https://bryans.life/2024/12/31/ive-been-at-an-indoor.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/31/avon-calling.html",
+				
+				"content_html": "<p>Avon calling!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Avon calling! \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/eca7c703ae.jpg\" width=\"400\" height=\"600\" alt=\"A weathered, abandoned wooden church with a bell tower stands amidst a drab, overcast landscape.\">\n",
+				"date_published": "2024-12-31T13:58:40-08:00",
+				"url": "https://bryans.life/2024/12/31/avon-calling.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/31/was-a-bountiful-year-with.html",
+				
+				"content_html": "<p>2024 was a bountiful year with many firsts to celebrate. Thankful for friends, family, travel, health, creative endeavors, and purpose. All the best in 2025. #2024</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "2024 was a bountiful year with many firsts to celebrate. Thankful for friends, family, travel, health, creative endeavors, and purpose. All the best in 2025. #2024 \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/92110/2024/169097f936.mp4\" width=\"640\" height=\"1138\" poster=\"https://bryans.life/uploads/2024/5ad716cec9.png\" preload=\"none\"></video>\n",
+				"date_published": "2024-12-31T13:25:45-08:00",
+				"url": "https://bryans.life/2024/12/31/was-a-bountiful-year-with.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2024/12/30/convinced-whoever-is-designing-mens.html",
+				
+				"content_html": "<p>Convinced whoever is designing men’s swim trunks, particularly the internal mesh, have no understanding of male anatomy.</p>\n",
+				"content_text": "Convinced whoever is designing men’s swim trunks, particularly the internal mesh, have no understanding of male anatomy.\n",
+				"date_published": "2024-12-30T16:41:25-08:00",
+				"url": "https://bryans.life/2024/12/30/convinced-whoever-is-designing-mens.html",
 				"tags": ["Notes"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2024/12/29/as-we-headed-back-west.html",
 				
 				"content_html": "<p>As we headed back west this morning over the Blue Mountains, we caught the start of a winter storm. Grateful we missed what was expected, and that things opened up on the other side of Pendleton, offering some sunny views before heading into the Columbia River Gorge.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "As we headed back west this morning over the Blue Mountains, we caught the start of a winter storm. Grateful we missed what was expected, and that things opened up on the other side of Pendleton, offering some sunny views before heading into the Columbia River Gorge. \n\n<img src=\"uploads/2024/6deea99f7a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "As we headed back west this morning over the Blue Mountains, we caught the start of a winter storm. Grateful we missed what was expected, and that things opened up on the other side of Pendleton, offering some sunny views before heading into the Columbia River Gorge. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/6deea99f7a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-12-29T17:54:18-08:00",
 				"url": "https://bryans.life/2024/12/29/as-we-headed-back-west.html",
-				"tags": ["Notes"]
+				"tags": ["Notes","Photography"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2024/12/28/our-boy-wanted-to-wear.html",
 				
 				"content_html": "<p>Our boy wanted to wear a “pretty” hat tonight like his sister’s, so he wore one of his grandma’s sparkly hats when we went to see the Christmas lights in downtown Caldwell.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our boy wanted to wear a “pretty” hat tonight like his sister’s, so he wore one of his grandma’s sparkly hats when we went to see the Christmas lights in downtown Caldwell. \n\n<img src=\"uploads/2024/b60d617d59.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Our boy wanted to wear a “pretty” hat tonight like his sister’s, so he wore one of his grandma’s sparkly hats when we went to see the Christmas lights in downtown Caldwell. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/b60d617d59.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-28T23:41:44-08:00",
 				"url": "https://bryans.life/2024/12/28/our-boy-wanted-to-wear.html",
 				"tags": ["Notes"]
@@ -46,7 +172,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2024/12/28/buster.html",
 				
 				"content_html": "<p>Buster</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Buster \n\n<img src=\"uploads/2024/26273ce18e.jpg\" width=\"400\" height=\"600\" alt=\"A fluffy dog with a red bone-shaped tag is lounging indoors on a soft surface.\">\n",
+				"content_text": "Buster \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/26273ce18e.jpg\" width=\"400\" height=\"600\" alt=\"A fluffy dog with a red bone-shaped tag is lounging indoors on a soft surface.\">\n",
 				"date_published": "2024-12-28T20:34:20-08:00",
 				"url": "https://bryans.life/2024/12/28/buster.html",
 				"tags": ["Notes"]
@@ -94,7 +220,7 @@
 				"content_text": "Zoey girl. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/28b4bd9db8.jpg\" width=\"400\" height=\"600\" alt=\"A black curly-haired dog with a patterned bandana sits on a patterned rug next to a white curtain.\">\n",
 				"date_published": "2024-12-27T20:50:40-08:00",
 				"url": "https://bryans.life/2024/12/27/zoey-girl.html",
-				"tags": ["Notes"]
+				"tags": ["Notes","Photography"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2024/12/26/eastern-oregon-en-route-to.html",
@@ -445,7 +571,7 @@
 				"content_text": "Things are ramping up. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2024/a431afc535.jpg\" width=\"400\" height=\"600\" alt=\"A Christmas tree decorated with lights and ornaments stands next to a collection of wrapped gifts and a pair of dumbbells in a cozy living room.\">\n",
 				"date_published": "2024-12-13T09:17:37-08:00",
 				"url": "https://bryans.life/2024/12/13/things-are-ramping.html",
-				"tags": ["Notes"]
+				"tags": ["Notes","Photography"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2024/12/13/just-realized-rns.html",
@@ -13269,15 +13395,6 @@
 				"tags": ["Notes"]
 			},
 			{
-				"id": "http://inthedeltawaves.micro.blog/2023/01/13/short-introduction-for.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Short introduction for <a href=\"https://mastodon.social/tags/FollowFriday\" class=\"mention hashtag\" rel=\"tag\">#<span>FollowFriday</span></a>. Living in <a href=\"https://mastodon.social/tags/Portland\" class=\"mention hashtag\" rel=\"tag\">#<span>Portland</span></a> the last 8 years. Originally from <a href=\"https://mastodon.social/tags/Michigan\" class=\"mention hashtag\" rel=\"tag\">#<span>Michigan</span></a>, working in the <a href=\"https://mastodon.social/tags/communitydevelopment\" class=\"mention hashtag\" rel=\"tag\">#<span>communitydevelopment</span></a> space in <a href=\"https://mastodon.social/tags/Detroit\" class=\"mention hashtag\" rel=\"tag\">#<span>Detroit</span></a> primarily. </p><p><a href=\"https://mastodon.social/tags/Parenting\" class=\"mention hashtag\" rel=\"tag\">#<span>Parenting</span></a> 2 children under 4. </p><p>Playing <a href=\"https://mastodon.social/tags/guitar\" class=\"mention hashtag\" rel=\"tag\">#<span>guitar</span></a>, but <a href=\"https://mastodon.social/tags/anxiety\" class=\"mention hashtag\" rel=\"tag\">#<span>anxiety</span></a> never allowed me to perform comfortably. See also: <a href=\"https://mastodon.social/tags/adhd\" class=\"mention hashtag\" rel=\"tag\">#<span>adhd</span></a>. </p><p><a href=\"https://mastodon.social/tags/UrbanPlanner\" class=\"mention hashtag\" rel=\"tag\">#<span>UrbanPlanner</span></a> by day. Enjoy learning about <a href=\"https://mastodon.social/tags/geography\" class=\"mention hashtag\" rel=\"tag\">#<span>geography</span></a> and looking at <a href=\"https://mastodon.social/tags/maps\" class=\"mention hashtag\" rel=\"tag\">#<span>maps</span></a>. </p><p>Frequent <a href=\"https://mastodon.social/tags/pnw\" class=\"mention hashtag\" rel=\"tag\">#<span>pnw</span></a> <a href=\"https://mastodon.social/tags/hiking\" class=\"mention hashtag\" rel=\"tag\">#<span>hiking</span></a>. Trying to find a way to afford to parlay my <a href=\"https://mastodon.social/tags/italian\" class=\"mention hashtag\" rel=\"tag\">#<span>italian</span></a> <a href=\"https://mastodon.social/tags/citizenship\" class=\"mention hashtag\" rel=\"tag\">#<span>citizenship</span></a> into a sabbatical with my family.</p>\n",
-				"date_published": "2023-01-13T11:08:57-08:00",
-				"url": "https://bryans.life/2023/01/13/short-introduction-for.html",
-				"tags": ["Notes"]
-			},
-			{
 				"id": "http://inthedeltawaves.micro.blog/2023/01/13/i-think-ive.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -16920,11 +17037,11 @@
 			{
 				"id": "http://inthedeltawaves.micro.blog/2020/05/26/mos-today-i.html",
 				
-				"content_html": "<p>16 mos. today. I guess itâs time to start force feeding him piano and guitar lessons. They grow up so fast.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "16 mos. today. I guess itâs time to start force feeding him piano and guitar lessons. They grow up so fast.\n\n<img src=\"https://cdn.uploads.micro.blog/92110/2023/e264f3b924.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>16 mos. today. I guess it’s time to start force feeding him piano and guitar lessons. They grow up so fast.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "16 mos. today. I guess it’s time to start force feeding him piano and guitar lessons. They grow up so fast.\n\n<img src=\"uploads/2023/e264f3b924.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2020-05-26T08:18:37-08:00",
 				"url": "https://bryans.life/2020/05/26/mos-today-i.html",
-				"tags": ["Notes"]
+				"tags": ["Notes","Guitar"]
 			},
 			{
 				"id": "http://inthedeltawaves.micro.blog/2020/05/25/so-i-says.html",
