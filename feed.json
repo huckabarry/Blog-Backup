@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2025/03/20/when-i-can-pop-that.html",
+				
+				"content_html": "<p>When I can pop that L5 vertebrae by giving it a little twist 🦴💥 🙌  Sounds like a thud on a hallow log.</p>\n",
+				"content_text": "When I can pop that L5 vertebrae by giving it a little twist 🦴💥 🙌  Sounds like a thud on a hallow log. \n",
+				"date_published": "2025-03-20T09:21:26-07:00",
+				"url": "https://bryans.life/2025/03/20/when-i-can-pop-that.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/03/19/there-are-two-types-of.html",
+				
+				"content_html": "<p>There are two types of glass recyclers on my street: those with bins filled with spaghetti sauce jars, and then there are those whose bins are filled with empty wine and liquor bottles.</p>\n",
+				"content_text": "There are two types of glass recyclers on my street: those with bins filled with spaghetti sauce jars, and then there are those whose bins are filled with empty wine and liquor bottles. \n",
+				"date_published": "2025-03-19T18:35:16-07:00",
+				"url": "https://bryans.life/2025/03/19/there-are-two-types-of.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/03/19/the-cafe-in-the-lobby.html",
+				
+				"content_html": "<p>The cafe in the lobby of our main office building makes their tomato soup with orange zest in it. Surprisingly decent combo.</p>\n",
+				"content_text": "The cafe in the lobby of our main office building makes their tomato soup with orange zest in it. Surprisingly decent combo. \n",
+				"date_published": "2025-03-19T12:04:32-07:00",
+				"url": "https://bryans.life/2025/03/19/the-cafe-in-the-lobby.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/03/19/i-vastly-underestimated-just-how.html",
+				
+				"content_html": "<p>I vastly underestimated just how much KISS I’d be listening to with two kids under six.</p>\n",
+				"content_text": "I vastly underestimated just how much KISS I’d be listening to with two kids under six. \n",
+				"date_published": "2025-03-19T08:30:40-07:00",
+				"url": "https://bryans.life/2025/03/19/i-vastly-underestimated-just-how.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/03/18/wild-stuff-webb-telescope-just.html",
+				
+				"content_html": "<p>Wild stuff.</p>\n<p><a href=\"https://mashable.com/article/james-webb-space-telescope-planets-direct-images\">Webb telescope just snapped direct image of worlds many light-years away</a></p>\n",
+				"content_text": "Wild stuff. \n\n[Webb telescope just snapped direct image of worlds many light-years away](https://mashable.com/article/james-webb-space-telescope-planets-direct-images)\n",
+				"date_published": "2025-03-18T13:56:16-07:00",
+				"url": "https://bryans.life/2025/03/18/wild-stuff-webb-telescope-just.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2025/03/18/having-trouble-powering-through-a.html",
 				
 				"content_html": "<p>Having trouble powering through a book someone sent me, which is akin to being held hostage.</p>\n",
@@ -28,7 +73,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2025/03/17/did-a-lot-of-css.html",
 				
 				"content_html": "<p>Did a lot of CSS work on my blog back in January and now Tinylytics thinks I’m averaging over 1,000 hits per month and keeps messaging me to upgrade. Yo, it’s me. I’m the one. No one is reading my blog except my snooping partner. How many more months until the average drops below 1,000?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Did a lot of CSS work on my blog back in January and now Tinylytics thinks I’m averaging over 1,000 hits per month and keeps messaging me to upgrade. Yo, it’s me. I’m the one. No one is reading my blog except my snooping partner. How many more months until the average drops below 1,000? \n\n<img src=\"uploads/2025/3e9abcc8f3.jpg\" width=\"600\" height=\"574\" alt=\"\">\n",
+				"content_text": "Did a lot of CSS work on my blog back in January and now Tinylytics thinks I’m averaging over 1,000 hits per month and keeps messaging me to upgrade. Yo, it’s me. I’m the one. No one is reading my blog except my snooping partner. How many more months until the average drops below 1,000? \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/3e9abcc8f3.jpg\" width=\"600\" height=\"574\" alt=\"\">\n",
 				"date_published": "2025-03-17T09:36:04-07:00",
 				"url": "https://bryans.life/2025/03/17/did-a-lot-of-css.html",
 				"tags": ["Notes"]
