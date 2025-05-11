@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2025/05/11/i-have-been-leaning-more.html",
+				
+				"content_html": "<p>I have been leaning more heavily toward Bluesky lately, primarily because of moderation features. Today I also figured out how to integrate Bluesky replies into my self-hosted Ghost blog, which makes it more appealing. If you want to find me over there, here’s the <a href=\"https://bsky.app/profile/bryanrobb.bsky.social\">link</a>.</p>\n",
+				"content_text": "I have been leaning more heavily toward Bluesky lately, primarily because of moderation features. Today I also figured out how to integrate Bluesky replies into my self-hosted Ghost blog, which makes it more appealing. If you want to find me over there, here’s the [link](https://bsky.app/profile/bryanrobb.bsky.social).\n",
+				"date_published": "2025-05-11T12:56:11-07:00",
+				"url": "https://bryans.life/2025/05/11/i-have-been-leaning-more.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/05/09/submitted-without-comment-deepfake-of.html",
+				
+				"content_html": "<p>Submitted without comment.</p>\n<p><a href=\"https://www.engadget.com/ai/deepfake-of-deceased-man-gives-his-own-impact-statement-in-court-161138506.html?src=rss\">Deepfake of deceased man gives his own impact statement in court</a></p>\n",
+				"content_text": "Submitted without comment. \n\n[Deepfake of deceased man gives his own impact statement in court](https://www.engadget.com/ai/deepfake-of-deceased-man-gives-his-own-impact-statement-in-court-161138506.html?src=rss)\n",
+				"date_published": "2025-05-09T21:41:21-07:00",
+				"url": "https://bryans.life/2025/05/09/submitted-without-comment-deepfake-of.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/05/08/peak-adulthood-is-buying-a.html",
+				
+				"content_html": "<p>Peak adulthood is buying a new garage door and acting like spending four figures on something so utterly banal isn’t soul crushing.</p>\n",
+				"content_text": "Peak adulthood is buying a new garage door and acting like spending four figures on something so utterly banal isn’t soul crushing. \n",
+				"date_published": "2025-05-08T22:43:42-07:00",
+				"url": "https://bryans.life/2025/05/08/peak-adulthood-is-buying-a.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/05/08/this-will-never-stop-being.html",
+				
+				"content_html": "<p>This will never stop being funny.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This will never stop being funny. \n\n<img src=\"uploads/2025/b4e182c0f1.jpg\" width=\"600\" height=\"337\" alt=\"Four people are standing together, with one smiling broadly and the others looking awkwardly at the camera, at Saturday Night Live studios. Dave Grohl. Charles Barkley. Krist Novoselic. Kurt Conain. \">\n",
+				"date_published": "2025-05-08T21:55:29-07:00",
+				"url": "https://bryans.life/2025/05/08/this-will-never-stop-being.html",
+				"tags": ["Notes","Photography"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/05/08/hit-a-milestone-today-with.html",
+				
+				"content_html": "<p>Hit a milestone today with 20 lbs lost over the past 4 months. Feels good to be out of my rut and making progress toward a goal.</p>\n",
+				"content_text": "Hit a milestone today with 20 lbs lost over the past 4 months. Feels good to be out of my rut and making progress toward a goal. \n",
+				"date_published": "2025-05-08T09:53:17-07:00",
+				"url": "https://bryans.life/2025/05/08/hit-a-milestone-today-with.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/05/07/very-strange-that-in-when.html",
+				
+				"content_html": "<p>Very strange that in 2025, when you hit copy on an email address in any Microsoft product, it still copies the “mailto:”. This includes outlook for iOS.</p>\n",
+				"content_text": "Very strange that in 2025, when you hit copy on an email address in any Microsoft product, it still copies the “mailto:”. This includes outlook for iOS. \n",
+				"date_published": "2025-05-07T21:22:39-07:00",
+				"url": "https://bryans.life/2025/05/07/very-strange-that-in-when.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/05/07/requested-my-high-school-transcript.html",
+				
+				"content_html": "<p>Requested my high school transcript and found out they calculated my GPA wrong—not in my favor. Appalled and amazed, but honestly, not entirely surprised.</p>\n",
+				"content_text": "Requested my high school transcript and found out they calculated my GPA wrong—not in my favor. Appalled and amazed, but honestly, not entirely surprised.\n",
+				"date_published": "2025-05-07T12:17:02-07:00",
+				"url": "https://bryans.life/2025/05/07/requested-my-high-school-transcript.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/05/06/started-another-hour-fast-tonight.html",
+				
+				"content_html": "<p>Started another 48-hour fast tonight. Happy I didn’t gain back the weight I’d lost eating tacos in California. All the walking helped. I’m aiming for a 10% loss before a 5k mud run this summer.</p>\n",
+				"content_text": "Started another 48-hour fast tonight. Happy I didn’t gain back the weight I’d lost eating tacos in California. All the walking helped. I’m aiming for a 10% loss before a 5k mud run this summer. \n",
+				"date_published": "2025-05-06T20:04:50-07:00",
+				"url": "https://bryans.life/2025/05/06/started-another-hour-fast-tonight.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2025/05/06/000629.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/f9e7750d4e.jpg\" width=\"600\" height=\"399\" alt=\"A view from inside a moving train shows a steel bridge against a city skyline with a building featuring large advertisements.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/92110/2025/f9e7750d4e.jpg\" width=\"600\" height=\"399\" alt=\"A view from inside a moving train shows a steel bridge against a city skyline with a building featuring large advertisements.\">\n",
 				"date_published": "2025-05-06T00:06:29-07:00",
 				"url": "https://bryans.life/2025/05/06/000629.html",
 				"tags": ["Notes","Photography"]
@@ -19,7 +91,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2025/05/05/sacramento-valley-station-is-a.html",
 				
 				"content_html": "<p>Sacramento Valley Station is a beauty. 🚂</p>\n<p>#trains #rail #photography #transit #amtrak #california</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sacramento Valley Station is a beauty. 🚂 \n\n#trains #rail #photography #transit #amtrak #california \n\n<img src=\"uploads/2025/6a0a1660d5.jpg\" width=\"600\" height=\"400\" alt=\"People are walking toward the Sacramento Valley Station, a brick building with large windows and a sign on top.\"><img src=\"uploads/2025/8b79f05fd0.jpg\" width=\"600\" height=\"399\" alt=\"A grand hall features a high arched ceiling with chandeliers, large arched windows, a mural above an entrance, and people sitting on benches.\"><img src=\"uploads/2025/cd4fcf9c0f.jpg\" width=\"400\" height=\"600\" alt=\"A spacious train station waiting area features benches, travelers, large arched windows, and an elegant chandelier.\"><img src=\"uploads/2025/ee9240844b.jpg\" width=\"399\" height=\"600\" alt=\"Railroad tracks curve under a large bridge beside a rusted structure against a clear blue sky.\">\n",
+				"content_text": "Sacramento Valley Station is a beauty. 🚂 \n\n#trains #rail #photography #transit #amtrak #california \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/6a0a1660d5.jpg\" width=\"600\" height=\"400\" alt=\"People are walking toward the Sacramento Valley Station, a brick building with large windows and a sign on top.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/8b79f05fd0.jpg\" width=\"600\" height=\"399\" alt=\"A grand hall features a high arched ceiling with chandeliers, large arched windows, a mural above an entrance, and people sitting on benches.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/cd4fcf9c0f.jpg\" width=\"400\" height=\"600\" alt=\"A spacious train station waiting area features benches, travelers, large arched windows, and an elegant chandelier.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/ee9240844b.jpg\" width=\"399\" height=\"600\" alt=\"Railroad tracks curve under a large bridge beside a rusted structure against a clear blue sky.\">\n",
 				"date_published": "2025-05-05T16:33:48-07:00",
 				"url": "https://bryans.life/2025/05/05/sacramento-valley-station-is-a.html",
 				"tags": ["Notes","Photography"]
@@ -28,7 +100,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2025/05/05/the-light-was-incredible-from.html",
 				
 				"content_html": "<p>The light was incredible from Alamo Square the other night. Ethereal and memorable experience. 📷 #landscapephotography #streetphotography #sf</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The light was incredible from Alamo Square the other night. Ethereal and memorable experience. 📷 #landscapephotography #streetphotography #sf \n\n<img src=\"uploads/2025/47db2a3303.jpg\" width=\"400\" height=\"600\" alt=\"A serene sunset bathes a tree-lined pathway in golden light.\"><img src=\"uploads/2025/35759d0847.jpg\" width=\"400\" height=\"600\" alt=\"A peaceful street scene at sunset features silhouettes of trees, buildings, and a bus stop.\"><img src=\"uploads/2025/a278d9fa55.jpg\" width=\"600\" height=\"400\" alt=\"A distant city skyline glows in the warm light of sunset, with trees and Victorian-style houses in the foreground.\"><img src=\"uploads/2025/86a9017dc8.jpg\" width=\"600\" height=\"400\" alt=\"A winding path leads through a park with a view of city buildings and distant hills at sunset.\">\n",
+				"content_text": "The light was incredible from Alamo Square the other night. Ethereal and memorable experience. 📷 #landscapephotography #streetphotography #sf \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/47db2a3303.jpg\" width=\"400\" height=\"600\" alt=\"A serene sunset bathes a tree-lined pathway in golden light.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/35759d0847.jpg\" width=\"400\" height=\"600\" alt=\"A peaceful street scene at sunset features silhouettes of trees, buildings, and a bus stop.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/a278d9fa55.jpg\" width=\"600\" height=\"400\" alt=\"A distant city skyline glows in the warm light of sunset, with trees and Victorian-style houses in the foreground.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/86a9017dc8.jpg\" width=\"600\" height=\"400\" alt=\"A winding path leads through a park with a view of city buildings and distant hills at sunset.\">\n",
 				"date_published": "2025-05-05T10:01:09-07:00",
 				"url": "https://bryans.life/2025/05/05/the-light-was-incredible-from.html",
 				"tags": ["Notes","Photography"]
@@ -46,7 +118,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2025/05/04/adios-san-jose.html",
 				"title": "Adios, San Jose",
 				"content_html": "<p>Wrapping up my SJ/SF leg of the trip.</p>\n<p>I have been determined to not rent a car and mostly took trains and buses everywhere. I took light rail in San Jose, Caltrain to Palo Alto and San Francisco, Muni and BART in SF, and the 17 bus to Santa Cruz. Now riding Amtrak to Sacramento. Everything has been really efficient and comfortable.</p>\n<p>I walked close to 50 miles over the last week to burn off all the Mexican food.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Wrapping up my SJ/SF leg of the trip. \n\nI have been determined to not rent a car and mostly took trains and buses everywhere. I took light rail in San Jose, Caltrain to Palo Alto and San Francisco, Muni and BART in SF, and the 17 bus to Santa Cruz. Now riding Amtrak to Sacramento. Everything has been really efficient and comfortable. \n\nI walked close to 50 miles over the last week to burn off all the Mexican food. \n\n<img src=\"uploads/2025/cdcd077272.jpg\" width=\"400\" height=\"600\" alt=\"A few people are sitting with luggage in a sunlit, historic train station waiting area featuring large benches, a clock, and ornate architectural details.\"><img src=\"uploads/2025/ffb7bad673.jpg\" width=\"600\" height=\"400\" alt=\"A train is stopped at the San Jose station platform with a few passengers waiting nearby.\"><img src=\"uploads/2025/3db320d744.jpg\" width=\"400\" height=\"600\" alt=\"Sunlight streams through a large arched window in a train station, casting a warm glow into a dimly lit room.\">\n",
+				"content_text": "Wrapping up my SJ/SF leg of the trip. \n\nI have been determined to not rent a car and mostly took trains and buses everywhere. I took light rail in San Jose, Caltrain to Palo Alto and San Francisco, Muni and BART in SF, and the 17 bus to Santa Cruz. Now riding Amtrak to Sacramento. Everything has been really efficient and comfortable. \n\nI walked close to 50 miles over the last week to burn off all the Mexican food. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/cdcd077272.jpg\" width=\"400\" height=\"600\" alt=\"A few people are sitting with luggage in a sunlit, historic train station waiting area featuring large benches, a clock, and ornate architectural details.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/ffb7bad673.jpg\" width=\"600\" height=\"400\" alt=\"A train is stopped at the San Jose station platform with a few passengers waiting nearby.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/3db320d744.jpg\" width=\"400\" height=\"600\" alt=\"Sunlight streams through a large arched window in a train station, casting a warm glow into a dimly lit room.\">\n",
 				"date_published": "2025-05-04T10:58:40-07:00",
 				"url": "https://bryans.life/2025/05/04/adios-san-jose.html",
 				"tags": ["Photography","Essays"]
