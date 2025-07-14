@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2025/07/13/not-sure-how-people-live.html",
+				
+				"content_html": "<p>Not sure how people live like this in the SW. I’m ready for fall.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not sure how people live like this in the SW. I’m ready for fall. \n\n<img src=\"uploads/2025/91d7692011.jpg\" width=\"450\" height=\"600\" alt=\"A car dashboard screen shows navigation details and a 100°F temperature while stopped at a traffic light with a brick building and trees in the background.\">\n",
+				"date_published": "2025-07-13T17:24:51-07:00",
+				"url": "https://afterword.blog/2025/07/13/not-sure-how-people-live.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/07/12/updated-my-ipad-to-still.html",
+				
+				"content_html": "<p>Updated my iPad to 26. Still can’t believe Apple ruined their design language at the same time as upgrading the thing into a usable computer. At very least, give us an accessibility setting to turn off liquid glass.</p>\n",
+				"content_text": "Updated my iPad to 26. Still can’t believe Apple ruined their design language at the same time as upgrading the thing into a usable computer. At very least, give us an accessibility setting to turn off liquid glass. \n",
+				"date_published": "2025-07-12T23:52:17-07:00",
+				"url": "https://afterword.blog/2025/07/12/updated-my-ipad-to-still.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/07/12/i-know-its-been-out.html",
+				
+				"content_html": "<p>I know it’s been out for a while now, but iOS family passwords is just so nice to have finally, from Netflix logins to legacy planning.</p>\n",
+				"content_text": "I know it’s been out for a while now, but iOS family passwords is just so nice to have finally, from Netflix logins to legacy planning. \n",
+				"date_published": "2025-07-12T20:16:42-07:00",
+				"url": "https://afterword.blog/2025/07/12/i-know-its-been-out.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2025/07/12/went-on-a-short-hike.html",
 				
 				"content_html": "<p>Went on a short hike at Vancouver Lake Regional Park, WA.</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +55,7 @@
 				"id": "http://inthedeltawaves.micro.blog/2025/07/11/one-of-my-hopes-for.html",
 				
 				"content_html": "<p>One of my hopes for Portland is that we someday cap I-405 in downtown, reroute and underground the Yellow/Orange MAX lines in a parallel alignment, and then top it all off with mixed-use, mixed-income housing and a greenway. A guy can dream.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my hopes for Portland is that we someday cap I-405 in downtown, reroute and underground the Yellow/Orange MAX lines in a parallel alignment, and then top it all off with mixed-use, mixed-income housing and a greenway. A guy can dream. \n\n<img src=\"uploads/2025/913cebdb8c.jpg\" width=\"342\" height=\"600\" alt=\"\">\n",
+				"content_text": "One of my hopes for Portland is that we someday cap I-405 in downtown, reroute and underground the Yellow/Orange MAX lines in a parallel alignment, and then top it all off with mixed-use, mixed-income housing and a greenway. A guy can dream. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/913cebdb8c.jpg\" width=\"342\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-11T12:25:02-07:00",
 				"url": "https://afterword.blog/2025/07/11/one-of-my-hopes-for.html",
 				"tags": ["Notes"]
