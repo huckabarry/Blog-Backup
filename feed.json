@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2025/08/22/i-took-my-wifes-sienna.html",
+				
+				"content_html": "<p>I took my wife’s Sienna to Costco for new tires yesterday. I hadn’t driven it in a while and I almost forgot that it moves like a land yacht. Squishy steering, tons of body roll, zero power, big blind spots, and I felt like a Flintstone having to touch a brake pedal. At least it’s safe in rain now!</p>\n",
+				"content_text": "I took my wife’s Sienna to Costco for new tires yesterday. I hadn’t driven it in a while and I almost forgot that it moves like a land yacht. Squishy steering, tons of body roll, zero power, big blind spots, and I felt like a Flintstone having to touch a brake pedal. At least it’s safe in rain now! \n",
+				"date_published": "2025-08-22T11:13:36-07:00",
+				"url": "https://m.afterword.blog/2025/08/22/i-took-my-wifes-sienna.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/08/22/portlanders-ill-see-you-at.html",
+				
+				"content_html": "<p>Portlanders: I’ll see you at the coast this weekend.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Portlanders: I’ll see you at the coast this weekend. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/9604d8772c.png\" width=\"296\" height=\"600\" alt=\"A weather app screen shows Portland's current clear conditions with a high of 66°F, daily forecast, and severe weather alert.\">\n",
+				"date_published": "2025-08-22T00:54:10-07:00",
+				"url": "https://m.afterword.blog/2025/08/22/portlanders-ill-see-you-at.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/08/21/when-you-run-across-one.html",
+				
+				"content_html": "<p>When you run across one of these but know the property has a recorded public pedestrian and bicycle access easement over its entirety. Perk of the job, I guess.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When you run across one of these but know the property has a recorded public pedestrian and bicycle access easement over its entirety. Perk of the job, I guess. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/ba5356cd25.jpg\" width=\"450\" height=\"600\" alt=\"A sign indicates that Arbor Station is private property, allowing only residents and prohibiting trespassing, smoking, and pets.\">\n",
+				"date_published": "2025-08-21T22:59:21-07:00",
+				"url": "https://m.afterword.blog/2025/08/21/when-you-run-across-one.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/08/21/my-first-real-camera-was.html",
+				
+				"content_html": "<p>My first “real” camera was a Nikon D80 I bought in 2007 for my last semester of college, which I spent abroad. APS-C, 10MP sensor, 3 fps, one kit lens. I had no idea what I was doing, but I still enjoy the photos I took with it.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "My first “real” camera was a Nikon D80 I bought in 2007 for my last semester of college, which I spent abroad. APS-C, 10MP sensor, 3 fps, one kit lens. I had no idea what I was doing, but I still enjoy the photos I took with it. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/da7652bbf5.jpg\" width=\"600\" height=\"401\" alt=\"Two people sit on a stone ledge overlooking a calm bay with numerous sailboats anchored in the water. Firth of Forth, Scotland. \"><img src=\"https://cdn.uploads.micro.blog/92110/2025/694dc16710.jpg\" width=\"401\" height=\"600\" alt=\"A sunlit, narrow European street flanked by tall, historic buildings features a descending staircase leading to an intersection.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/0b02c647fd.jpg\" width=\"600\" height=\"401\" alt=\"A sunlit street in a city, bordered by residential buildings, descends downhill with trees and distant urban skyline in the background.\"><img src=\"https://cdn.uploads.micro.blog/92110/2025/67f434cc43.jpg\" width=\"600\" height=\"401\" alt=\"A bustling public square features people relaxing near a large fountain, with a historic building in the background under a blue sky with clouds.\">\n",
+				"date_published": "2025-08-21T09:34:12-07:00",
+				"url": "https://m.afterword.blog/2025/08/21/my-first-real-camera-was.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2025/08/16/im-experimenting-with-selfhosting-my.html",
 				
 				"content_html": "<p>I’m experimenting with self-hosting my photoblog on Ghost again now that ActivityPub is live. There’s a lot to love about Micro.blog, but what’s always appealed to me about Ghost is its privacy settings. If I make a post ‘members only,’ it doesn’t automatically publish to socials.</p>\n<p><a href=\"https://afterword.blog/\">Afterword</a></p>\n",
