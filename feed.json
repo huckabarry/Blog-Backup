@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://inthedeltawaves.micro.blog/2025/10/09/early-adopter-poor-judgment.html",
+				
+				"content_html": "<p>Early adopter. Poor judgment.</p>\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/5556268f06.jpg\" width=\"600\" height=\"413\" alt=\"\">\n",
+				"content_text": "Early adopter. Poor judgment. \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/5556268f06.jpg\" width=\"600\" height=\"413\" alt=\"\">\n",
+				"date_published": "2025-10-09T08:42:00-07:00",
+				"url": "https://m.afterword.blog/2025/10/09/early-adopter-poor-judgment.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://inthedeltawaves.micro.blog/2025/10/06/supermoon.html",
+				
+				"content_html": "<p>Supermoon</p>\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/aa7eb7a40b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Supermoon \n\n<img src=\"https://cdn.uploads.micro.blog/92110/2025/aa7eb7a40b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2025-10-06T21:26:44-07:00",
+				"url": "https://m.afterword.blog/2025/10/06/supermoon.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://inthedeltawaves.micro.blog/2025/10/06/the-us-census-data-gis.html",
 				
 				"content_html": "<p>The U.S. Census Data GIS Maps no longer load. Esri support is contractual, but what is the likelihood the shutdown impacted this so quickly? Hard to submit so much as a grant application without basic mapping tools from Census.gov. #data</p>\n",
